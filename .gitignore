@@ -53,6 +53,16 @@ Thumbs.db
 :memory:*
 *:memory:*
 
+# Node.js and frontend
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.npm
+.yarn/
+frontend/dist/
+frontend/build/
+
 # Temporary files
 tmp/
 temp/

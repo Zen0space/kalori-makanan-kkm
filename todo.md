@@ -49,8 +49,9 @@ kalori-makanan-kkm/
 ### 4. Render Deployment
 - [x] Create `render.yaml` deployment config
 - [x] Create production startup script and README
-- [ ] Test deployment on Render
-- [ ] Verify API works on Render URL
+- [x] Test deployment on Render
+- [x] Verify API works on Render URL
+- [x] Create beautiful landing page for homepage
 
 ## Suggested API Response Format
 ```json

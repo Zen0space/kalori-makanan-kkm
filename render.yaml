@@ -3,9 +3,18 @@ services:
     name: kalori-makanan-api
     runtime: python
     plan: free
-    region: oregon
+    region: singapore
     branch: main
-    buildCommand: pip install -r requirements.txt
+    buildCommand: |
+      # Install Node.js (Render Python runtime includes Node.js)
+      node --version && npm --version
+      # Install Python dependencies first
+      pip install -r requirements.txt
+      # Install Node.js dependencies and build React app
+      cd frontend && npm ci && npm run build && cd ..
+      # Copy React build to static folder
+      mkdir -p app/static
+      cp -r frontend/dist/* app/static/
     startCommand: uvicorn app.main:app --host 0.0.0.0 --port $PORT
     envVars:
       - key: TURSO_DATABASE_URL
@@ -14,5 +23,7 @@ services:
         sync: false
       - key: PORT
         value: "10000"
+      - key: NODE_VERSION
+        value: "18"
     healthCheckPath: /
     autoDeploy: true

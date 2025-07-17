@@ -1,7 +1,10 @@
 from fastapi import FastAPI, HTTPException, Query
-from fastapi.responses import HTMLResponse
+from fastapi.responses import HTMLResponse, FileResponse
+from fastapi.staticfiles import StaticFiles
 from typing import Optional, List
 import uvicorn
+import os
+from pathlib import Path
 from .database import (
     test_connection,
     get_food_by_name,
@@ -27,9 +30,22 @@ app = FastAPI(
     redoc_url="/redoc"
 )
 
+# Mount static files for React app
+static_dir = Path(__file__).parent / "static"
+if static_dir.exists():
+    app.mount("/static", StaticFiles(directory=static_dir), name="static")
+
 @app.get("/", response_class=HTMLResponse)
 async def landing_page():
-    """Landing page with API documentation and examples"""
+    """Serve React app if available, otherwise fallback to HTML landing page"""
+    # Check if React build exists
+    static_dir = Path(__file__).parent / "static"
+    index_file = static_dir / "index.html"
+
+    if index_file.exists():
+        return FileResponse(index_file)
+
+    # Fallback to original HTML landing page
     try:
         # Get database statistics
         db_connected = test_connection()
