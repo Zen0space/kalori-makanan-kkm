@@ -16,7 +16,7 @@ def get_database():
     """Get Turso database connection"""
     try:
         # For remote-only connection to Turso
-        if DATABASE_URL.startswith(("libsql://", "https://")):
+        if DATABASE_URL and DATABASE_URL.startswith(("libsql://", "https://")):
             # Use remote-only connection (no local replica)
             conn = libsql.connect(DATABASE_URL, auth_token=DATABASE_TOKEN)
             return conn
@@ -32,7 +32,7 @@ def test_connection():
         # Simple query to test connection
         cursor = conn.cursor()
         cursor.execute("SELECT 1 as test")
-        result = cursor.fetchone()
+        cursor.fetchone()
         cursor.close()
         conn.close()
         return True
