@@ -1,0 +1,18 @@
+services:
+  - type: web
+    name: kalori-makanan-api
+    runtime: python
+    plan: free
+    region: oregon
+    branch: main
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn app.main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: TURSO_DATABASE_URL
+        sync: false
+      - key: TURSO_DATABASE_TOKEN
+        sync: false
+      - key: PORT
+        value: "10000"
+    healthCheckPath: /
+    autoDeploy: true

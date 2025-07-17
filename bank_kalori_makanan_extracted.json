@@ -1,0 +1,6561 @@
+{
+  "categories": [
+    "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+    "AYAM DAN DAGING",
+    "IKAN DAN HASIL LAUT",
+    "BUAH-BUAHAN",
+    "SAYUR-SAYURAN",
+    "KEKACANG",
+    "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+    "MAKANAN WESTERN",
+    "JEM DAN SAPUAN",
+    "LAIN-LAIN",
+    "MINUMAN"
+  ],
+  "foods": [
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Bihun bandung",
+      "serving": "1 mangkuk",
+      "weight_g": 450,
+      "calories_kcal": 490,
+      "reference": "NC"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Bihun bandung + sayur + 1 biji telur rebus",
+      "serving": "1 mangkuk",
+      "weight_g": 250,
+      "calories_kcal": 350,
+      "reference": "NP"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Bihun goring",
+      "serving": "2 senduk",
+      "weight_g": 170,
+      "calories_kcal": 290,
+      "reference": "NC"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Bihun goreng + sayur + fish cake",
+      "serving": "2 senduk",
+      "weight_g": 140,
+      "calories_kcal": 240,
+      "reference": "NP"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Bihun goreng ala Cina",
+      "serving": "2 senduk",
+      "weight_g": 140,
+      "calories_kcal": 220,
+      "reference": "NP"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Bihun goreng putih",
+      "serving": "2 senduk",
+      "weight_g": 120,
+      "calories_kcal": 200,
+      "reference": "NP"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Bihun goreng Singapura",
+      "serving": "2 senduk",
+      "weight_g": 120,
+      "calories_kcal": 150,
+      "reference": "NP"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Bihun hailam + sayur + ayam",
+      "serving": "1 mangkuk",
+      "weight_g": 250,
+      "calories_kcal": 350,
+      "reference": "NP"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Bihun kantonis + sayur + ayam",
+      "serving": "1 pinggan",
+      "weight_g": 280,
+      "calories_kcal": 430,
+      "reference": "NP"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Bihun kari",
+      "serving": "1 mangkuk",
+      "weight_g": 250,
+      "calories_kcal": 325,
+      "reference": "NP"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Bihun kari + sayur + ayam",
+      "serving": "1 mangkuk",
+      "weight_g": 250,
+      "calories_kcal": 330,
+      "reference": "NP"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Bihun latna + sayur + ayam",
+      "serving": "1 mangkuk",
+      "weight_g": 250,
+      "calories_kcal": 380,
+      "reference": "NP"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Bihun rebus + sayur + ½ biji telur rebus",
+      "serving": "1 mangkuk",
+      "weight_g": 250,
+      "calories_kcal": 310,
+      "reference": "NP"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Bihun Soto",
+      "serving": "1 mangkuk cina",
+      "weight_g": 130,
+      "calories_kcal": 50,
+      "reference": "NP"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Bihun sup",
+      "serving": "1 mangkuk",
+      "weight_g": 200,
+      "calories_kcal": 200,
+      "reference": "NP"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Bihun sup + sayur + ayam",
+      "serving": "1 mangkuk",
+      "weight_g": 200,
+      "calories_kcal": 200,
+      "reference": "NP"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Bihun tom yam + sayur + ayam",
+      "serving": "1 mangkuk",
+      "weight_g": 250,
+      "calories_kcal": 230,
+      "reference": "NP"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Bubur ayam",
+      "serving": "1 mangkuk",
+      "weight_g": 200,
+      "calories_kcal": 70,
+      "reference": "NP"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Bubur daging",
+      "serving": "1 mangkuk",
+      "weight_g": 200,
+      "calories_kcal": 120,
+      "reference": "NP"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Bubur ikan",
+      "serving": "1 mangkuk",
+      "weight_g": 200,
+      "calories_kcal": 80,
+      "reference": "NP"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Bubur nasi",
+      "serving": "1 cawan",
+      "weight_g": 170,
+      "calories_kcal": 70,
+      "reference": "NC"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Bubur nasi + sayur campur + bawang goreng \n+ ayam",
+      "serving": "1 mangkuk",
+      "weight_g": 150,
+      "calories_kcal": 140,
+      "reference": "NP"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Chap chye",
+      "serving": "1 senduk",
+      "weight_g": 60,
+      "calories_kcal": 50,
+      "reference": "NP"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Char kuetiau",
+      "serving": "2 senduk",
+      "weight_g": 120,
+      "calories_kcal": 230,
+      "reference": "NP"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Ketupat nasi",
+      "serving": "5 potong",
+      "weight_g": 200,
+      "calories_kcal": 215,
+      "reference": "NP"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Kuetiau bandung",
+      "serving": "1 mangkuk kecil",
+      "weight_g": 450,
+      "calories_kcal": 540,
+      "reference": "NC"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Kuetiau bandung + sayur + 1 biji telur rebus",
+      "serving": "1 mangkuk kecil",
+      "weight_g": 200,
+      "calories_kcal": 300,
+      "reference": "NP"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Kuetiau goreng + sayur + fish cake",
+      "serving": "2 senduk",
+      "weight_g": 120,
+      "calories_kcal": 250,
+      "reference": "NP"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Kuetiau goreng",
+      "serving": "2 senduk",
+      "weight_g": 170,
+      "calories_kcal": 320,
+      "reference": "NC"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Kuetiau hailam + sayur + ayam",
+      "serving": "1 mangkuk",
+      "weight_g": 250,
+      "calories_kcal": 380,
+      "reference": "NP"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Kuetiau kantonis + sayur + ayam",
+      "serving": "1 pinggan",
+      "weight_g": 280,
+      "calories_kcal": 410,
+      "reference": "NP"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Kuetiau kari",
+      "serving": "1 mangkuk",
+      "weight_g": 250,
+      "calories_kcal": 315,
+      "reference": "NP"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Kuetiau kari + sayur + ayam",
+      "serving": "1 mangkuk",
+      "weight_g": 250,
+      "calories_kcal": 320,
+      "reference": "NP"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Kuetiau latna + sayur + ayam",
+      "serving": "1 mangkuk",
+      "weight_g": 250,
+      "calories_kcal": 320,
+      "reference": "NP"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Kuetiau sup",
+      "serving": "1 mangkuk",
+      "weight_g": 250,
+      "calories_kcal": 140,
+      "reference": "NP"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Kuetiau sup + sayur + ayam",
+      "serving": "1 mangkuk",
+      "weight_g": 250,
+      "calories_kcal": 140,
+      "reference": "NP"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Kuetiau tom yam + sayur + ayam",
+      "serving": "1 mangkuk",
+      "weight_g": 250,
+      "calories_kcal": 210,
+      "reference": "NP"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Laksa + sayur + ½ biji telur rebus",
+      "serving": "1 mangkuk",
+      "weight_g": 250,
+      "calories_kcal": 240,
+      "reference": "NP"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Laksa Johor",
+      "serving": "1 mangkuk",
+      "weight_g": 250,
+      "calories_kcal": 330,
+      "reference": "NP"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Laksa Sarawak",
+      "serving": "1 mangkuk",
+      "weight_g": 250,
+      "calories_kcal": 320,
+      "reference": "NP"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Lemang",
+      "serving": "1 potong",
+      "weight_g": 30,
+      "calories_kcal": 100,
+      "reference": "NP"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Lontong + nasi impit",
+      "serving": "1 mangkuk",
+      "weight_g": 300,
+      "calories_kcal": 340,
+      "reference": "NP"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Makaroni ayam",
+      "serving": "1 senduk",
+      "weight_g": 100,
+      "calories_kcal": 150,
+      "reference": "NP"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Makaroni bakar",
+      "serving": "2 senduk",
+      "weight_g": 90,
+      "calories_kcal": 150,
+      "reference": "NP"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Makaroni goring",
+      "serving": "2 senduk",
+      "weight_g": 90,
+      "calories_kcal": 300,
+      "reference": "NP"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Mi bandung",
+      "serving": "1 mangkuk",
+      "weight_g": 450,
+      "calories_kcal": 550,
+      "reference": "NC"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Mi bandung + sayur + ayam",
+      "serving": "1 mangkuk",
+      "weight_g": 250,
+      "calories_kcal": 310,
+      "reference": "NP"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Mi goreng",
+      "serving": "3 senduk",
+      "weight_g": 170,
+      "calories_kcal": 280,
+      "reference": "NC"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Mi goreng + sayur + fish cake",
+      "serving": "3 senduk",
+      "weight_g": 150,
+      "calories_kcal": 250,
+      "reference": "NP"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Mi goreng mamak",
+      "serving": "3 senduk",
+      "weight_g": 150,
+      "calories_kcal": 270,
+      "reference": "NP"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Mi hailam + sayur + ayam",
+      "serving": "1 mangkuk",
+      "weight_g": 250,
+      "calories_kcal": 340,
+      "reference": "NP"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Mi hailam berkuah",
+      "serving": "1 mangkuk",
+      "weight_g": 250,
+      "calories_kcal": 340,
+      "reference": "NP"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Mi kantonis + sayur + ayam",
+      "serving": "1 mangkuk",
+      "weight_g": 280,
+      "calories_kcal": 410,
+      "reference": "NP"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Mi kari",
+      "serving": "1 mangkuk",
+      "weight_g": 410,
+      "calories_kcal": 530,
+      "reference": "NC"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Mi kari + sayur + ayam",
+      "serving": "1 mangkuk",
+      "weight_g": 250,
+      "calories_kcal": 320,
+      "reference": "NP"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Mi kungfu",
+      "serving": "1 mangkuk",
+      "weight_g": 250,
+      "calories_kcal": 220,
+      "reference": "NP"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Mi latna + sayur + ayam",
+      "serving": "1 mangkuk",
+      "weight_g": 250,
+      "calories_kcal": 400,
+      "reference": "NP"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Mi rebus",
+      "serving": "1 mangkuk",
+      "weight_g": 250,
+      "calories_kcal": 250,
+      "reference": "NP"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Mi rebus + sayur + ½ biji telur rebus",
+      "serving": "1 mangkuk",
+      "weight_g": 250,
+      "calories_kcal": 170,
+      "reference": "NP"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Mi siam",
+      "serving": "2 senduk",
+      "weight_g": 100,
+      "calories_kcal": 120,
+      "reference": "NP"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Mi sup",
+      "serving": "1 mangkuk",
+      "weight_g": 560,
+      "calories_kcal": 380,
+      "reference": "NC"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Mi sup + sayur + ayam",
+      "serving": "1 mangkuk",
+      "weight_g": 250,
+      "calories_kcal": 170,
+      "reference": "NP"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Mi tom yam + sayur + ayam",
+      "serving": "1 mangkuk",
+      "weight_g": 250,
+      "calories_kcal": 130,
+      "reference": "NP"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Mi udang sup",
+      "serving": "1 mangkuk",
+      "weight_g": 480,
+      "calories_kcal": 250,
+      "reference": "NP"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Mi wantan sup",
+      "serving": "1 mangkuk",
+      "weight_g": 250,
+      "calories_kcal": 125,
+      "reference": "NP"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Nasi ambang",
+      "serving": "1 hidangan",
+      "weight_g": 250,
+      "calories_kcal": 325,
+      "reference": "NP"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Nasi ayam (nasi sahaja)",
+      "serving": "2 senduk",
+      "weight_g": 100,
+      "calories_kcal": 160,
+      "reference": "NP"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Nasi ayam (set)",
+      "serving": "1 pinggan",
+      "weight_g": 250,
+      "calories_kcal": 280,
+      "reference": "NC"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Nasi ayam + ayam + sayur + sos cili",
+      "serving": "1 pinggan",
+      "weight_g": 250,
+      "calories_kcal": 450,
+      "reference": "NP"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Nasi beriani (nasi sahaja)",
+      "serving": "1 cawan",
+      "weight_g": 110,
+      "calories_kcal": 200,
+      "reference": "NC"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Nasi briyani (set)",
+      "serving": "1 pinggan",
+      "weight_g": 250,
+      "calories_kcal": 460,
+      "reference": "Atlas"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Nasi briyani + ayam goreng berempah  \n+ sayur dal",
+      "serving": "1 pinggan",
+      "weight_g": 250,
+      "calories_kcal": 450,
+      "reference": "NP"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Nasi dagang",
+      "serving": "1 pinggan",
+      "weight_g": 250,
+      "calories_kcal": 510,
+      "reference": "NP"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Nasi goreng",
+      "serving": "3 senduk",
+      "weight_g": 150,
+      "calories_kcal": 290,
+      "reference": "NP"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Nasi goreng (biasa) + sayur + fish cake",
+      "serving": "3 senduk",
+      "weight_g": 150,
+      "calories_kcal": 290,
+      "reference": "NP"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Nasi goreng ayam + cendawan",
+      "serving": "1 set",
+      "weight_g": 240,
+      "calories_kcal": 450,
+      "reference": "NP"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Nasi goreng cendawan",
+      "serving": "3 senduk",
+      "weight_g": 150,
+      "calories_kcal": 290,
+      "reference": "NP"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Nasi goreng cina",
+      "serving": "3 senduk",
+      "weight_g": 150,
+      "calories_kcal": 320,
+      "reference": "NP"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Nasi goreng cina + sayur + telur",
+      "serving": "3 senduk",
+      "weight_g": 150,
+      "calories_kcal": 320,
+      "reference": "NP"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Nasi goreng gajus",
+      "serving": "3 senduk",
+      "weight_g": 150,
+      "calories_kcal": 330,
+      "reference": "NP"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Nasi goreng ikan masin",
+      "serving": "3 senduk",
+      "weight_g": 150,
+      "calories_kcal": 280,
+      "reference": "NP"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Nasi goreng ikan masin + sayur + ikan masin",
+      "serving": "3 senduk",
+      "weight_g": 150,
+      "calories_kcal": 280,
+      "reference": "NP"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Nasi goreng kampung",
+      "serving": "3 senduk",
+      "weight_g": 150,
+      "calories_kcal": 270,
+      "reference": "NP"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Nasi goreng kampung  + sayur + fish cake",
+      "serving": "3 senduk",
+      "weight_g": 150,
+      "calories_kcal": 290,
+      "reference": "NP"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Nasi goreng kerabu",
+      "serving": "3 senduk",
+      "weight_g": 150,
+      "calories_kcal": 340,
+      "reference": "NP"
+    },
+    {
+      "category": "NASI, MEE, BIHUN,KUETIAU DAN LAIN- LAIN",
+      "name": "Nasi goreng lada hitam + sayur + ayam",
+      "serving": "3 senduk",
+      "weight_g": 150,
+      "calories_kcal": 290,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Nasi goreng paprik",
+      "serving": "3 senduk",
+      "weight_g": 150,
+      "calories_kcal": 240,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Nasi goreng paprik + sayur + ayam",
+      "serving": "3 senduk",
+      "weight_g": 150,
+      "calories_kcal": 240,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Nasi goreng pataya + sayur + ayam +  \ntelur dadar",
+      "serving": "3 senduk",
+      "weight_g": 150,
+      "calories_kcal": 370,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Nasi goreng pattaya",
+      "serving": "3 senduk",
+      "weight_g": 150,
+      "calories_kcal": 285,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Nasi goreng udang + sayur",
+      "serving": "3 senduk",
+      "weight_g": 150,
+      "calories_kcal": 380,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Nasi goreng USA",
+      "serving": "3 senduk",
+      "weight_g": 150,
+      "calories_kcal": 285,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Nasi goreng USA + sayur + udang + \n fTE mata",
+      "serving": "3 senduk",
+      "weight_g": 150,
+      "calories_kcal": 490,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Nasi impit",
+      "serving": "8 kiub",
+      "weight_g": 50,
+      "calories_kcal": 80,
+      "reference": "Atlas"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Nasi kerabu",
+      "serving": "1 set",
+      "weight_g": 250,
+      "calories_kcal": 260,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Nasi Khabsa",
+      "serving": "1 cawan",
+      "weight_g": 110,
+      "calories_kcal": 280,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Nasi lemak (biasa)",
+      "serving": "1 set",
+      "weight_g": 180,
+      "calories_kcal": 320,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Nasi lemak (set)",
+      "serving": "1 pinggan",
+      "weight_g": 200,
+      "calories_kcal": 340,
+      "reference": "Atlas"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Nasi lemak ayam goreng berempah + timun  \n+ sambal",
+      "serving": "1 set",
+      "weight_g": 220,
+      "calories_kcal": 490,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Nasi lemak sambal sotong + timun + sambal",
+      "serving": "1 set",
+      "weight_g": 210,
+      "calories_kcal": 410,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Nasi lemak telur mata kerbau + timun  \n+ sambal",
+      "serving": "1 set",
+      "weight_g": 180,
+      "calories_kcal": 350,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Nasi minyak (kosong)",
+      "serving": "3 senduk",
+      "weight_g": 150,
+      "calories_kcal": 265,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Nasi nenas",
+      "serving": "3 senduk",
+      "weight_g": 170,
+      "calories_kcal": 160,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Nasi putih",
+      "serving": "2 senduk",
+      "weight_g": 150,
+      "calories_kcal": 200,
+      "reference": "NC"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Nasi tomato",
+      "serving": "2 senduk",
+      "weight_g": 100,
+      "calories_kcal": 185,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Pasta",
+      "serving": "2 senduk",
+      "weight_g": 110,
+      "calories_kcal": 165,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Soto",
+      "serving": "1 mangkuk",
+      "weight_g": 250,
+      "calories_kcal": 260,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Soto ayam",
+      "serving": "1 mangkuk",
+      "weight_g": 490,
+      "calories_kcal": 510,
+      "reference": "NC"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Spagethi dengan keju & sos daging",
+      "serving": "1 mangkuk",
+      "weight_g": 440,
+      "calories_kcal": 440,
+      "reference": "NC"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Ayam gajus",
+      "serving": "1 senduk",
+      "weight_g": 50,
+      "calories_kcal": 165,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Ayam goreng berempah",
+      "serving": "1 ketul",
+      "weight_g": 90,
+      "calories_kcal": 200,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Ayam goreng KFC",
+      "serving": "1 ketul(peha)",
+      "weight_g": 65,
+      "calories_kcal": 110,
+      "reference": "NC"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Ayam goreng madu",
+      "serving": "1 ketul",
+      "weight_g": 90,
+      "calories_kcal": 240,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Ayam masak cili",
+      "serving": "1 ketul",
+      "weight_g": 90,
+      "calories_kcal": 140,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Ayam masak halia",
+      "serving": "1 senduk",
+      "weight_g": 50,
+      "calories_kcal": 60,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Ayam masak kicap",
+      "serving": "1 ketul",
+      "weight_g": 90,
+      "calories_kcal": 200,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Ayam masak kunyit",
+      "serving": "1 senduk",
+      "weight_g": 50,
+      "calories_kcal": 80,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Ayam masak kurma",
+      "serving": "1 ketul",
+      "weight_g": 90,
+      "calories_kcal": 190,
+      "reference": "NC"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Ayam masak kuzi",
+      "serving": "1 ketul",
+      "weight_g": 90,
+      "calories_kcal": 180,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Ayam masak lemak cili api",
+      "serving": "1 ketul",
+      "weight_g": 90,
+      "calories_kcal": 150,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Ayam masak lemon",
+      "serving": "1 ketul",
+      "weight_g": 90,
+      "calories_kcal": 160,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Ayam masak lengkuas",
+      "serving": "1 senduk",
+      "weight_g": 50,
+      "calories_kcal": 80,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Ayam masak merah",
+      "serving": "1 ketul",
+      "weight_g": 90,
+      "calories_kcal": 140,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Ayam masak nyonya",
+      "serving": "1 ketul",
+      "weight_g": 80,
+      "calories_kcal": 140,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Ayam masak paprik",
+      "serving": "1 senduk",
+      "weight_g": 70,
+      "calories_kcal": 70,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Ayam masak sambal",
+      "serving": "1 ketul",
+      "weight_g": 100,
+      "calories_kcal": 180,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Ayam masak tomato",
+      "serving": "1 ketul",
+      "weight_g": 100,
+      "calories_kcal": 150,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Ayam panggang",
+      "serving": "1 ketul",
+      "weight_g": 90,
+      "calories_kcal": 130,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Ayam panggang (tanpa kulit)",
+      "serving": "1 ketul",
+      "weight_g": 90,
+      "calories_kcal": 150,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Ayam percik",
+      "serving": "1 ketul",
+      "weight_g": 80,
+      "calories_kcal": 140,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Ayam percik Kelantan",
+      "serving": "1 ketul",
+      "weight_g": 80,
+      "calories_kcal": 140,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Ayam seroja",
+      "serving": "1 ketul",
+      "weight_g": 90,
+      "calories_kcal": 110,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Ayam Tandoori",
+      "serving": "1 ketul",
+      "weight_g": 100,
+      "calories_kcal": 200,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Ayam Tandoori (tanpa kulit)",
+      "serving": "1 ketul",
+      "weight_g": 100,
+      "calories_kcal": 175,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Bebola ikan goreng",
+      "serving": "1 senduk",
+      "weight_g": 40,
+      "calories_kcal": 105,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Bebola ikan masak sambal",
+      "serving": "1 senduk",
+      "weight_g": 70,
+      "calories_kcal": 110,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Braised Shark’s Fin Soup with Crabmeat",
+      "serving": "1 mangkuk kecil",
+      "weight_g": 100,
+      "calories_kcal": 90,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Burger daging/ ayam",
+      "serving": "1set",
+      "weight_g": 100,
+      "calories_kcal": 240,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Burger daging/ ayam special",
+      "serving": "1 set",
+      "weight_g": 130,
+      "calories_kcal": 290,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Buttered prawn",
+      "serving": "5 ekor",
+      "weight_g": 100,
+      "calories_kcal": 180,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Chicken boxing",
+      "serving": "3 ketul",
+      "weight_g": 50,
+      "calories_kcal": 120,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Chilli prawn chinese style",
+      "serving": "3 ekor",
+      "weight_g": 60,
+      "calories_kcal": 120,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Crispy Roasted Chicken with BBQ Sauce",
+      "serving": "1 ketul",
+      "weight_g": 90,
+      "calories_kcal": 170,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Daging asam pedas",
+      "serving": "2 ketul (saiz \nkotak mancis)",
+      "weight_g": 80,
+      "calories_kcal": 70,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Daging belada",
+      "serving": "2 ketul (saiz \nkotak mancis)",
+      "weight_g": 80,
+      "calories_kcal": 90,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Daging dendeng",
+      "serving": "1 ketul (saiz \nkotak mancis)",
+      "weight_g": 35,
+      "calories_kcal": 125,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Daging goreng",
+      "serving": "1 ketul (saiz \nkotak mancis)",
+      "weight_g": 40,
+      "calories_kcal": 140,
+      "reference": "NC"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Daging goreng kunyit",
+      "serving": "1 senduk",
+      "weight_g": 80,
+      "calories_kcal": 80,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Daging kambing goreng",
+      "serving": "2 ketul (saiz \nkotak mancis)",
+      "weight_g": 80,
+      "calories_kcal": 220,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Daging kambing masak kurma",
+      "serving": "1 senduk",
+      "weight_g": 80,
+      "calories_kcal": 120,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Daging kicap berempah",
+      "serving": "1 ketul (saiz \nkotak mancis)",
+      "weight_g": 60,
+      "calories_kcal": 80,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Daging lembu goreng",
+      "serving": "1 ketul saiz \nkotak mancis)",
+      "weight_g": 40,
+      "calories_kcal": 140,
+      "reference": "NC"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Daging lembu masak merah",
+      "serving": "1 ketul+4 sudu \nmakan kuah",
+      "weight_g": 90,
+      "calories_kcal": 140,
+      "reference": "NC"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Daging masak asam pedas",
+      "serving": "1 ketul (saiz \nkotak mancis)",
+      "weight_g": 40,
+      "calories_kcal": 45,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Daging masak dendeng",
+      "serving": "1 senduk",
+      "weight_g": 60,
+      "calories_kcal": 215,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Daging masak halia",
+      "serving": "2 ketul",
+      "weight_g": 60,
+      "calories_kcal": 90,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Daging masak hitam",
+      "serving": "1 senduk",
+      "weight_g": 90,
+      "calories_kcal": 145,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Daging masak kicap",
+      "serving": "1 ketul (saiz \nkotak mancis)",
+      "weight_g": 60,
+      "calories_kcal": 80,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Daging masak kurma",
+      "serving": "2 ketul (saiz \nkotak mancis)",
+      "weight_g": 80,
+      "calories_kcal": 80,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Daging masak lada hitam",
+      "serving": "3 ketul",
+      "weight_g": 90,
+      "calories_kcal": 180,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Daging masak lemak cili api",
+      "serving": "1 ketul (saiz \nkotak mancis)",
+      "weight_g": 42,
+      "calories_kcal": 65,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Daging masak singgang",
+      "serving": "3 ketul",
+      "weight_g": 90,
+      "calories_kcal": 100,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Daging masak taucu",
+      "serving": "1 senduk",
+      "weight_g": 80,
+      "calories_kcal": 180,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Daging merah Ala Thai",
+      "serving": "2 keping",
+      "weight_g": 60,
+      "calories_kcal": 100,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Daging palembang",
+      "serving": "1 ketul (saiz \nkotak mancis)",
+      "weight_g": 30,
+      "calories_kcal": 110,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Daging salai masak lemak",
+      "serving": "3 ketul",
+      "weight_g": 110,
+      "calories_kcal": 190,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Daging tetel masak asam pedas",
+      "serving": "3 ketul",
+      "weight_g": 90,
+      "calories_kcal": 160,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Kari ayam",
+      "serving": "1 ketul",
+      "weight_g": 130,
+      "calories_kcal": 200,
+      "reference": "NC"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Kari kambing",
+      "serving": "2 ketul",
+      "weight_g": 80,
+      "calories_kcal": 140,
+      "reference": "NC"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Kari lembu",
+      "serving": "2 ketul",
+      "weight_g": 90,
+      "calories_kcal": 130,
+      "reference": "NC"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Kari telur",
+      "serving": "½ biji",
+      "weight_g": 20,
+      "calories_kcal": 130,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Kerabu perut",
+      "serving": "1 senduk",
+      "weight_g": 70,
+      "calories_kcal": 80,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Kuzee ayam",
+      "serving": "1 senduk",
+      "weight_g": 60,
+      "calories_kcal": 145,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Paru lembu goreng",
+      "serving": "1 keping",
+      "weight_g": 60,
+      "calories_kcal": 290,
+      "reference": "NC"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Paru masak sambal",
+      "serving": "1 senduk",
+      "weight_g": 70,
+      "calories_kcal": 80,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Perut lembu masak lemak",
+      "serving": "2 keping",
+      "weight_g": 80,
+      "calories_kcal": 120,
+      "reference": "NC"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Puyuh masak sambal",
+      "serving": "1 ekor",
+      "weight_g": 100,
+      "calories_kcal": 145,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Rendang ayam",
+      "serving": "1 senduk",
+      "weight_g": 50,
+      "calories_kcal": 100,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Rendang daging lembu",
+      "serving": "2 keping",
+      "weight_g": 50,
+      "calories_kcal": 130,
+      "reference": "NC"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Rendang hati ayam",
+      "serving": "1 ketul",
+      "weight_g": 50,
+      "calories_kcal": 140,
+      "reference": "NC"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Rendang hati lembu",
+      "serving": "1 keping",
+      "weight_g": 40,
+      "calories_kcal": 100,
+      "reference": "NC"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Rendang limpa lembu",
+      "serving": "1 keping",
+      "weight_g": 40,
+      "calories_kcal": 90,
+      "reference": "NC"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Sate ayam",
+      "serving": "5 cucuk",
+      "weight_g": 80,
+      "calories_kcal": 200,
+      "reference": "NC"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Sate daging lembu",
+      "serving": "5 cucuk",
+      "weight_g": 80,
+      "calories_kcal": 190,
+      "reference": "NC"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Sate perut lembu",
+      "serving": "1 cucuk",
+      "weight_g": 20,
+      "calories_kcal": 40,
+      "reference": "NC"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Siput masak lemak",
+      "serving": "1 senduk",
+      "weight_g": 55,
+      "calories_kcal": 60,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Sosej",
+      "serving": "1 ketul",
+      "weight_g": 30,
+      "calories_kcal": 100,
+      "reference": "Atlas"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Sosej + roti bakar + scramble egg",
+      "serving": "1 set",
+      "weight_g": 160,
+      "calories_kcal": 310,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Sosej koktail",
+      "serving": "2 ketul",
+      "weight_g": 33,
+      "calories_kcal": 105,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Soto ayam",
+      "serving": "1 mangkuk",
+      "weight_g": 490,
+      "calories_kcal": 510,
+      "reference": "NC"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Stir fried boneless chicken with cashew nuts & \nsesame seeds",
+      "serving": "1 ketul",
+      "weight_g": 50,
+      "calories_kcal": 140,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Stir fried chicken with dry chilli",
+      "serving": "1 ketul",
+      "weight_g": 90,
+      "calories_kcal": 150,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Stir fry chicken with celery",
+      "serving": "1 senduk",
+      "weight_g": 60,
+      "calories_kcal": 125,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Sup ayam",
+      "serving": "1 mangkuk kecil",
+      "weight_g": 150,
+      "calories_kcal": 80,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Sup daging",
+      "serving": "1 mangkuk kecil",
+      "weight_g": 150,
+      "calories_kcal": 90,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Sup ekor",
+      "serving": "1 mangkuk kecil",
+      "weight_g": 150,
+      "calories_kcal": 120,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Sup tomyam kurang pedas",
+      "serving": "1 mangkuk kecil",
+      "weight_g": 150,
+      "calories_kcal": 90,
+      "reference": "NP"
+    },
+    {
+      "category": "AYAM DAN DAGING",
+      "name": "Sup tulang",
+      "serving": "1 mangkuk",
+      "weight_g": 150,
+      "calories_kcal": 75,
+      "reference": "NP"
+    },
+    {
+      "category": "IKAN DAN HASIL LAUT",
+      "name": "Telur ½ masak",
+      "serving": "1 biji",
+      "weight_g": 50,
+      "calories_kcal": 80,
+      "reference": "NP"
+    },
+    {
+      "category": "IKAN DAN HASIL LAUT",
+      "name": "Telur asin",
+      "serving": "½ biji",
+      "weight_g": 50,
+      "calories_kcal": 50,
+      "reference": "NC"
+    },
+    {
+      "category": "IKAN DAN HASIL LAUT",
+      "name": "Telur dadar",
+      "serving": "1 potong",
+      "weight_g": 45,
+      "calories_kcal": 100,
+      "reference": "NP"
+    },
+    {
+      "category": "IKAN DAN HASIL LAUT",
+      "name": "Telur hancur",
+      "serving": "2 sudu makan",
+      "weight_g": 40,
+      "calories_kcal": 50,
+      "reference": "NP"
+    },
+    {
+      "category": "IKAN DAN HASIL LAUT",
+      "name": "Telur mata kerbau",
+      "serving": "1 biji",
+      "weight_g": 54,
+      "calories_kcal": 110,
+      "reference": "NP"
+    },
+    {
+      "category": "IKAN DAN HASIL LAUT",
+      "name": "Telur rebus",
+      "serving": "1 biji",
+      "weight_g": 50,
+      "calories_kcal": 75,
+      "reference": "NP"
+    },
+    {
+      "category": "IKAN DAN HASIL LAUT",
+      "name": "Telur setengah masak",
+      "serving": "1 biji",
+      "weight_g": 50,
+      "calories_kcal": 75,
+      "reference": "NP"
+    },
+    {
+      "category": "IKAN DAN HASIL LAUT",
+      "name": "Tomyam ayam",
+      "serving": "1 mangkuk kecil",
+      "weight_g": 150,
+      "calories_kcal": 75,
+      "reference": "NP"
+    },
+    {
+      "category": "IKAN DAN HASIL LAUT",
+      "name": "Tulang gulai nangka",
+      "serving": "1 senduk",
+      "weight_g": 40,
+      "calories_kcal": 110,
+      "reference": "NP"
+    },
+    {
+      "category": "IKAN DAN HASIL LAUT",
+      "name": "Ikan acar",
+      "serving": "1 ekor",
+      "weight_g": 90,
+      "calories_kcal": 155,
+      "reference": "NP"
+    },
+    {
+      "category": "IKAN DAN HASIL LAUT",
+      "name": "Ikan bawal hitam masak 3 rasa",
+      "serving": "1 ekor",
+      "weight_g": 100,
+      "calories_kcal": 210,
+      "reference": "NP"
+    },
+    {
+      "category": "IKAN DAN HASIL LAUT",
+      "name": "Ikan bawal putih goreng",
+      "serving": "1 ekor",
+      "weight_g": 80,
+      "calories_kcal": 190,
+      "reference": "NP"
+    },
+    {
+      "category": "IKAN DAN HASIL LAUT",
+      "name": "Ikan cencaru goreng belada",
+      "serving": "2 potong",
+      "weight_g": 150,
+      "calories_kcal": 200,
+      "reference": "NP"
+    },
+    {
+      "category": "IKAN DAN HASIL LAUT",
+      "name": "Ikan cencaru kukus",
+      "serving": "1 ekor",
+      "weight_g": 100,
+      "calories_kcal": 80,
+      "reference": "NP"
+    },
+    {
+      "category": "IKAN DAN HASIL LAUT",
+      "name": "Ikan cencaru masak cuka",
+      "serving": "1 ekor",
+      "weight_g": 150,
+      "calories_kcal": 270,
+      "reference": "Atlas"
+    },
+    {
+      "category": "IKAN DAN HASIL LAUT",
+      "name": "Ikan cencaru sumbat",
+      "serving": "1 ekor",
+      "weight_g": 100,
+      "calories_kcal": 200,
+      "reference": "Atlas"
+    },
+    {
+      "category": "IKAN DAN HASIL LAUT",
+      "name": "Ikan goreng",
+      "serving": "1 ekor",
+      "weight_g": 70,
+      "calories_kcal": 180,
+      "reference": "NP"
+    },
+    {
+      "category": "IKAN DAN HASIL LAUT",
+      "name": "Ikan haruan kering goreng",
+      "serving": "1 ekor kecil",
+      "weight_g": 40,
+      "calories_kcal": 160,
+      "reference": "NP"
+    },
+    {
+      "category": "IKAN DAN HASIL LAUT",
+      "name": "Ikan keli goreng berlada",
+      "serving": "1 ekor \nsederhana",
+      "weight_g": 90,
+      "calories_kcal": 90,
+      "reference": "NP"
+    },
+    {
+      "category": "IKAN DAN HASIL LAUT",
+      "name": "Ikan kembong bakar",
+      "serving": "1 ekor",
+      "weight_g": 70,
+      "calories_kcal": 80,
+      "reference": "NP"
+    },
+    {
+      "category": "IKAN DAN HASIL LAUT",
+      "name": "+ air asam",
+      "serving": "1 sudu makan",
+      "weight_g": 20,
+      "calories_kcal": 10,
+      "reference": "NP"
+    },
+    {
+      "category": "IKAN DAN HASIL LAUT",
+      "name": "Ikan kembong goreng",
+      "serving": "1 ekor",
+      "weight_g": 70,
+      "calories_kcal": 160,
+      "reference": "Atlas"
+    },
+    {
+      "category": "IKAN DAN HASIL LAUT",
+      "name": "Ikan kembong goreng belada",
+      "serving": "1 ekor",
+      "weight_g": 110,
+      "calories_kcal": 300,
+      "reference": "Atlas"
+    },
+    {
+      "category": "IKAN DAN HASIL LAUT",
+      "name": "Ikan kembong masak asam rebus",
+      "serving": "1 ekor",
+      "weight_g": 80,
+      "calories_kcal": 100,
+      "reference": "NP"
+    },
+    {
+      "category": "IKAN DAN HASIL LAUT",
+      "name": "Ikan kembong masak kicap",
+      "serving": "1 ekor",
+      "weight_g": 80,
+      "calories_kcal": 160,
+      "reference": "Atlas"
+    },
+    {
+      "category": "IKAN DAN HASIL LAUT",
+      "name": "Ikan kembong masak taucu",
+      "serving": "1 ekor",
+      "weight_g": 80,
+      "calories_kcal": 130,
+      "reference": "NP"
+    },
+    {
+      "category": "IKAN DAN HASIL LAUT",
+      "name": "Ikan kerisi goreng",
+      "serving": "1 ekor",
+      "weight_g": 75,
+      "calories_kcal": 205,
+      "reference": "NP"
+    },
+    {
+      "category": "IKAN DAN HASIL LAUT",
+      "name": "Ikan kerisi goreng berlada",
+      "serving": "1 ekor",
+      "weight_g": 75,
+      "calories_kcal": 245,
+      "reference": "NP"
+    },
+    {
+      "category": "IKAN DAN HASIL LAUT",
+      "name": "Ikan kerisi masak kicap",
+      "serving": "1 ekor",
+      "weight_g": 75,
+      "calories_kcal": 150,
+      "reference": "NP"
+    },
+    {
+      "category": "IKAN DAN HASIL LAUT",
+      "name": "Ikan kukus dengan halia",
+      "serving": "1 potong",
+      "weight_g": 55,
+      "calories_kcal": 100,
+      "reference": "NP"
+    },
+    {
+      "category": "IKAN DAN HASIL LAUT",
+      "name": "Ikan masam manis",
+      "serving": "1 ekor",
+      "weight_g": 80,
+      "calories_kcal": 220,
+      "reference": "NP"
+    },
+    {
+      "category": "IKAN DAN HASIL LAUT",
+      "name": "Ikan masin goreng bawang",
+      "serving": "3 ketul",
+      "weight_g": 50,
+      "calories_kcal": 100,
+      "reference": "NP"
+    },
+    {
+      "category": "IKAN DAN HASIL LAUT",
+      "name": "Ikan masin masak lemak",
+      "serving": "1 senduk",
+      "weight_g": 50,
+      "calories_kcal": 145,
+      "reference": "NP"
+    },
+    {
+      "category": "IKAN DAN HASIL LAUT",
+      "name": "Ikan merah goreng berlada",
+      "serving": "1 potong kecil",
+      "weight_g": 50,
+      "calories_kcal": 130,
+      "reference": "NP"
+    },
+    {
+      "category": "IKAN DAN HASIL LAUT",
+      "name": "Ikan merah masak asam",
+      "serving": "1 potong \nsederhana",
+      "weight_g": 80,
+      "calories_kcal": 180,
+      "reference": "NP"
+    },
+    {
+      "category": "IKAN DAN HASIL LAUT",
+      "name": "Ikan merah masak asam pedas",
+      "serving": "1 potong kecil",
+      "weight_g": 80,
+      "calories_kcal": 190,
+      "reference": "NP"
+    },
+    {
+      "category": "IKAN DAN HASIL LAUT",
+      "name": "Ikan merah masak lemak",
+      "serving": "1 potong \nsederhana",
+      "weight_g": 80,
+      "calories_kcal": 200,
+      "reference": "NP"
+    },
+    {
+      "category": "BUAH-BUAHAN",
+      "name": "Sambal tempe + ikan bilis+ kentang",
+      "serving": "1 senduk",
+      "weight_g": 40,
+      "calories_kcal": 100,
+      "reference": "NP"
+    },
+    {
+      "category": "BUAH-BUAHAN",
+      "name": "Sambal tumis udang",
+      "serving": "1 senduk",
+      "weight_g": 60,
+      "calories_kcal": 145,
+      "reference": "NP"
+    },
+    {
+      "category": "BUAH-BUAHAN",
+      "name": "Sambal udang kecil",
+      "serving": "1 senduk",
+      "weight_g": 40,
+      "calories_kcal": 70,
+      "reference": "Atlas"
+    },
+    {
+      "category": "BUAH-BUAHAN",
+      "name": "Sotong goreng kunyit",
+      "serving": "1 senduk",
+      "weight_g": 60,
+      "calories_kcal": 90,
+      "reference": "NP"
+    },
+    {
+      "category": "BUAH-BUAHAN",
+      "name": "Sotong goreng tepung",
+      "serving": "1 senduk",
+      "weight_g": 60,
+      "calories_kcal": 150,
+      "reference": "NP"
+    },
+    {
+      "category": "BUAH-BUAHAN",
+      "name": "Sotong kering masak sambal",
+      "serving": "1 senduk",
+      "weight_g": 45,
+      "calories_kcal": 65,
+      "reference": "NP"
+    },
+    {
+      "category": "BUAH-BUAHAN",
+      "name": "Sotong masak kicap",
+      "serving": "2 ekor",
+      "weight_g": 60,
+      "calories_kcal": 90,
+      "reference": "NP"
+    },
+    {
+      "category": "BUAH-BUAHAN",
+      "name": "Steamed red Talapia Fish Thai Style",
+      "serving": "1 keping",
+      "weight_g": 70,
+      "calories_kcal": 60,
+      "reference": "NP"
+    },
+    {
+      "category": "BUAH-BUAHAN",
+      "name": "Stir Fried Mantis Prawn with Thai Sauce",
+      "serving": "2 ekor",
+      "weight_g": 40,
+      "calories_kcal": 70,
+      "reference": "NP"
+    },
+    {
+      "category": "BUAH-BUAHAN",
+      "name": "Stir Fried Prawn with Butter and Curry Leaves",
+      "serving": "1 ekor \nsederhana",
+      "weight_g": 30,
+      "calories_kcal": 70,
+      "reference": "NP"
+    },
+    {
+      "category": "BUAH-BUAHAN",
+      "name": "Sup ikan merah",
+      "serving": "1 mangkuk kecil",
+      "weight_g": 150,
+      "calories_kcal": 100,
+      "reference": "NP"
+    },
+    {
+      "category": "BUAH-BUAHAN",
+      "name": "Sup ikan merah & batang sederi",
+      "serving": "1 mangkuk kecil",
+      "weight_g": 150,
+      "calories_kcal": 40,
+      "reference": "NP"
+    },
+    {
+      "category": "BUAH-BUAHAN",
+      "name": "Udang dengan sos Mongolian",
+      "serving": "3 ekor",
+      "weight_g": 80,
+      "calories_kcal": 130,
+      "reference": "NP"
+    },
+    {
+      "category": "BUAH-BUAHAN",
+      "name": "Udang Goreng Kunyit",
+      "serving": "3 ekor \nsederhana",
+      "weight_g": 80,
+      "calories_kcal": 90,
+      "reference": "NP"
+    },
+    {
+      "category": "BUAH-BUAHAN",
+      "name": "Udang masak lemak kuning",
+      "serving": "3 ekor",
+      "weight_g": 40,
+      "calories_kcal": 95,
+      "reference": "NP"
+    },
+    {
+      "category": "BUAH-BUAHAN",
+      "name": "Udang masak lemak merah",
+      "serving": "3 ekor",
+      "weight_g": 40,
+      "calories_kcal": 95,
+      "reference": "NP"
+    },
+    {
+      "category": "BUAH-BUAHAN",
+      "name": "Acar timun",
+      "serving": "1 senduk",
+      "weight_g": 50,
+      "calories_kcal": 50,
+      "reference": "NP"
+    },
+    {
+      "category": "BUAH-BUAHAN",
+      "name": "Belimbing",
+      "serving": "1 biji",
+      "weight_g": 300,
+      "calories_kcal": 70,
+      "reference": "NP"
+    },
+    {
+      "category": "BUAH-BUAHAN",
+      "name": "Betik",
+      "serving": "1 potong \nsederhana",
+      "weight_g": 200,
+      "calories_kcal": 70,
+      "reference": "NP"
+    },
+    {
+      "category": "BUAH-BUAHAN",
+      "name": "Buah kurma",
+      "serving": "3 biji",
+      "weight_g": 30,
+      "calories_kcal": 60,
+      "reference": "NC"
+    },
+    {
+      "category": "BUAH-BUAHAN",
+      "name": "Buah lai",
+      "serving": "1 biji sederhana",
+      "weight_g": 200,
+      "calories_kcal": 70,
+      "reference": "NP"
+    },
+    {
+      "category": "BUAH-BUAHAN",
+      "name": "Buah naga",
+      "serving": "3 hirisan kecil",
+      "weight_g": 30,
+      "calories_kcal": 30,
+      "reference": "NP"
+    },
+    {
+      "category": "BUAH-BUAHAN",
+      "name": "Buah-buahan potong",
+      "serving": "6 hirisan kecil",
+      "weight_g": 80,
+      "calories_kcal": 30,
+      "reference": "NP"
+    },
+    {
+      "category": "BUAH-BUAHAN",
+      "name": "Buah-buahan potong",
+      "serving": "8 hirisan kecil",
+      "weight_g": 100,
+      "calories_kcal": 40,
+      "reference": "NP"
+    },
+    {
+      "category": "BUAH-BUAHAN",
+      "name": "Chilled Longan with Jelly",
+      "serving": "1 cawan",
+      "weight_g": 150,
+      "calories_kcal": 80,
+      "reference": "NP"
+    },
+    {
+      "category": "BUAH-BUAHAN",
+      "name": "Epal hijau",
+      "serving": "1 biji",
+      "weight_g": 110,
+      "calories_kcal": 60,
+      "reference": "NP"
+    },
+    {
+      "category": "BUAH-BUAHAN",
+      "name": "Epal merah",
+      "serving": "1 biji",
+      "weight_g": 110,
+      "calories_kcal": 60,
+      "reference": "NP"
+    },
+    {
+      "category": "BUAH-BUAHAN",
+      "name": "Fruit cocktail triffle pudding",
+      "serving": "1 potong",
+      "weight_g": 60,
+      "calories_kcal": 110,
+      "reference": "NP"
+    },
+    {
+      "category": "BUAH-BUAHAN",
+      "name": "Fruit tartlet",
+      "serving": "1 biji",
+      "weight_g": 60,
+      "calories_kcal": 160,
+      "reference": "NP"
+    },
+    {
+      "category": "BUAH-BUAHAN",
+      "name": "Jagung rebus",
+      "serving": "1 cawan kecil",
+      "weight_g": 120,
+      "calories_kcal": 110,
+      "reference": "NP"
+    },
+    {
+      "category": "BUAH-BUAHAN",
+      "name": "Jambu air",
+      "serving": "1 biji",
+      "weight_g": 50,
+      "calories_kcal": 10,
+      "reference": "NP"
+    },
+    {
+      "category": "BUAH-BUAHAN",
+      "name": "Jambu batu",
+      "serving": "½ biji (tanpa biji)",
+      "weight_g": 150,
+      "calories_kcal": 70,
+      "reference": "NP"
+    },
+    {
+      "category": "BUAH-BUAHAN",
+      "name": "Kerabu mangga",
+      "serving": "1 senduk",
+      "weight_g": 50,
+      "calories_kcal": 75,
+      "reference": "NP"
+    },
+    {
+      "category": "BUAH-BUAHAN",
+      "name": "Mangga",
+      "serving": "1 biji sederhana",
+      "weight_g": 100,
+      "calories_kcal": 70,
+      "reference": "NP"
+    },
+    {
+      "category": "BUAH-BUAHAN",
+      "name": "Nangka masak lemak",
+      "serving": "1 senduk",
+      "weight_g": 60,
+      "calories_kcal": 50,
+      "reference": "NP"
+    },
+    {
+      "category": "BUAH-BUAHAN",
+      "name": "Nenas",
+      "serving": "1 potong \nsederhana",
+      "weight_g": 130,
+      "calories_kcal": 60,
+      "reference": "NP"
+    },
+    {
+      "category": "BUAH-BUAHAN",
+      "name": "Nenas Bombay",
+      "serving": "1 senduk",
+      "weight_g": 45,
+      "calories_kcal": 40,
+      "reference": "NP"
+    },
+    {
+      "category": "BUAH-BUAHAN",
+      "name": "Pajeri nenas",
+      "serving": "1 senduk",
+      "weight_g": 25,
+      "calories_kcal": 45,
+      "reference": "NP"
+    },
+    {
+      "category": "SAYUR-SAYURAN",
+      "name": "Pisang berangan",
+      "serving": "1 biji sederhana",
+      "weight_g": 90,
+      "calories_kcal": 60,
+      "reference": "NP"
+    },
+    {
+      "category": "SAYUR-SAYURAN",
+      "name": "Pisang mas",
+      "serving": "2 bji sederhana",
+      "weight_g": 100,
+      "calories_kcal": 80,
+      "reference": "NP"
+    },
+    {
+      "category": "SAYUR-SAYURAN",
+      "name": "Pisang masak lemak",
+      "serving": "1 senduk",
+      "weight_g": 60,
+      "calories_kcal": 90,
+      "reference": "NP"
+    },
+    {
+      "category": "SAYUR-SAYURAN",
+      "name": "Rojak sayur + kuah kacang",
+      "serving": "1 cawan",
+      "weight_g": 100,
+      "calories_kcal": 90,
+      "reference": "NP"
+    },
+    {
+      "category": "SAYUR-SAYURAN",
+      "name": "Tembikai",
+      "serving": "1 potong \nsederhana",
+      "weight_g": 130,
+      "calories_kcal": 40,
+      "reference": "NP"
+    },
+    {
+      "category": "SAYUR-SAYURAN",
+      "name": "Thai style kerabu mango",
+      "serving": "1 senduk",
+      "weight_g": 70,
+      "calories_kcal": 110,
+      "reference": "NP"
+    },
+    {
+      "category": "SAYUR-SAYURAN",
+      "name": "Tulang gulai nangka",
+      "serving": "1 senduk",
+      "weight_g": 40,
+      "calories_kcal": 110,
+      "reference": "NP"
+    },
+    {
+      "category": "SAYUR-SAYURAN",
+      "name": "Bayam goreng",
+      "serving": "1 senduk",
+      "weight_g": 60,
+      "calories_kcal": 80,
+      "reference": "NP"
+    },
+    {
+      "category": "SAYUR-SAYURAN",
+      "name": "Braised chinese cabbage with three \nmushroom",
+      "serving": "1 senduk",
+      "weight_g": 50,
+      "calories_kcal": 80,
+      "reference": "NP"
+    },
+    {
+      "category": "SAYUR-SAYURAN",
+      "name": "Brocolli & cauliflower goreng",
+      "serving": "1 senduk",
+      "weight_g": 60,
+      "calories_kcal": 20,
+      "reference": "NP"
+    },
+    {
+      "category": "SAYUR-SAYURAN",
+      "name": "Cekur manis masak lemak",
+      "serving": "1 senduk",
+      "weight_g": 60,
+      "calories_kcal": 120,
+      "reference": "NP"
+    },
+    {
+      "category": "SAYUR-SAYURAN",
+      "name": "Cili jeruk",
+      "serving": "1 sudu makan",
+      "weight_g": 10,
+      "calories_kcal": 10,
+      "reference": "NP"
+    },
+    {
+      "category": "SAYUR-SAYURAN",
+      "name": "Cream of potatoes",
+      "serving": "1 mangkuk kecil",
+      "weight_g": 150,
+      "calories_kcal": 90,
+      "reference": "NP"
+    },
+    {
+      "category": "SAYUR-SAYURAN",
+      "name": "Cucumber & tomato raita",
+      "serving": "1 senduk",
+      "weight_g": 80,
+      "calories_kcal": 30,
+      "reference": "NP"
+    },
+    {
+      "category": "SAYUR-SAYURAN",
+      "name": "Dalca kacang kuda",
+      "serving": "1 senduk",
+      "weight_g": 60,
+      "calories_kcal": 130,
+      "reference": "NP"
+    },
+    {
+      "category": "SAYUR-SAYURAN",
+      "name": "Dalca sayur",
+      "serving": "1 senduk",
+      "weight_g": 80,
+      "calories_kcal": 130,
+      "reference": "NP"
+    },
+    {
+      "category": "SAYUR-SAYURAN",
+      "name": "Fucuk tumis air",
+      "serving": "1 senduk",
+      "weight_g": 90,
+      "calories_kcal": 80,
+      "reference": "NP"
+    },
+    {
+      "category": "SAYUR-SAYURAN",
+      "name": "Jelatah (timun & nenas)",
+      "serving": "1 senduk",
+      "weight_g": 50,
+      "calories_kcal": 80,
+      "reference": "NP"
+    },
+    {
+      "category": "SAYUR-SAYURAN",
+      "name": "Kacang botol goreng",
+      "serving": "1 senduk",
+      "weight_g": 60,
+      "calories_kcal": 50,
+      "reference": "NP"
+    },
+    {
+      "category": "SAYUR-SAYURAN",
+      "name": "Kacang buncis goreng",
+      "serving": "1 senduk",
+      "weight_g": 60,
+      "calories_kcal": 40,
+      "reference": "NP"
+    },
+    {
+      "category": "SAYUR-SAYURAN",
+      "name": "Kacang kuda/ kacang tanah (rebus)",
+      "serving": "1 senduk",
+      "weight_g": 50,
+      "calories_kcal": 160,
+      "reference": "NP"
+    },
+    {
+      "category": "SAYUR-SAYURAN",
+      "name": "Kacang panggang",
+      "serving": "2 sudu makan",
+      "weight_g": 50,
+      "calories_kcal": 40,
+      "reference": "NP"
+    },
+    {
+      "category": "SAYUR-SAYURAN",
+      "name": "Kacang panjang goreng",
+      "serving": "1 senduk",
+      "weight_g": 60,
+      "calories_kcal": 55,
+      "reference": "NP"
+    },
+    {
+      "category": "SAYUR-SAYURAN",
+      "name": "Kailan goreng",
+      "serving": "1 senduk",
+      "weight_g": 60,
+      "calories_kcal": 40,
+      "reference": "NP"
+    },
+    {
+      "category": "SAYUR-SAYURAN",
+      "name": "Kailan ikan masin",
+      "serving": "1 senduk",
+      "weight_g": 60,
+      "calories_kcal": 80,
+      "reference": "NP"
+    },
+    {
+      "category": "SAYUR-SAYURAN",
+      "name": "Kailan masak sos tiram",
+      "serving": "1 senduk",
+      "weight_g": 60,
+      "calories_kcal": 40,
+      "reference": "NP"
+    },
+    {
+      "category": "SAYUR-SAYURAN",
+      "name": "Kangkung goreng",
+      "serving": "1 senduk",
+      "weight_g": 60,
+      "calories_kcal": 50,
+      "reference": "NP"
+    },
+    {
+      "category": "SAYUR-SAYURAN",
+      "name": "Kari sayur",
+      "serving": "1 senduk",
+      "weight_g": 60,
+      "calories_kcal": 60,
+      "reference": "NP"
+    },
+    {
+      "category": "SAYUR-SAYURAN",
+      "name": "Keladi masak asam rebus",
+      "serving": "1 mangkuk kecil",
+      "weight_g": 100,
+      "calories_kcal": 60,
+      "reference": "NP"
+    },
+    {
+      "category": "SAYUR-SAYURAN",
+      "name": "Keledek goreng",
+      "serving": "2 keping",
+      "weight_g": 40,
+      "calories_kcal": 170,
+      "reference": "NP"
+    },
+    {
+      "category": "SAYUR-SAYURAN",
+      "name": "Keledek/ keladi goreng",
+      "serving": "3 keping",
+      "weight_g": 90,
+      "calories_kcal": 175,
+      "reference": "NP"
+    },
+    {
+      "category": "SAYUR-SAYURAN",
+      "name": "Kerabu pucuk paku",
+      "serving": "1 senduk",
+      "weight_g": 50,
+      "calories_kcal": 30,
+      "reference": "NP"
+    },
+    {
+      "category": "SAYUR-SAYURAN",
+      "name": "Kerabu pucuk paku/ taugeh",
+      "serving": "1 senduk",
+      "weight_g": 60,
+      "calories_kcal": 40,
+      "reference": "NP"
+    },
+    {
+      "category": "SAYUR-SAYURAN",
+      "name": "Kerabu suhun",
+      "serving": "1 senduk",
+      "weight_g": 80,
+      "calories_kcal": 65,
+      "reference": "NP"
+    },
+    {
+      "category": "SAYUR-SAYURAN",
+      "name": "Kerabu taugeh + lobak merah",
+      "serving": "1 senduk",
+      "weight_g": 60,
+      "calories_kcal": 60,
+      "reference": "NP"
+    },
+    {
+      "category": "SAYUR-SAYURAN",
+      "name": "Kerabu ulam",
+      "serving": "1 cawan",
+      "weight_g": 60,
+      "calories_kcal": 20,
+      "reference": "NP"
+    },
+    {
+      "category": "SAYUR-SAYURAN",
+      "name": "Kobis goreng",
+      "serving": "1 senduk",
+      "weight_g": 60,
+      "calories_kcal": 50,
+      "reference": "NP"
+    },
+    {
+      "category": "SAYUR-SAYURAN",
+      "name": "Kobis masak lemak putih",
+      "serving": "1 senduk",
+      "weight_g": 70,
+      "calories_kcal": 135,
+      "reference": "NP"
+    },
+    {
+      "category": "SAYUR-SAYURAN",
+      "name": "Labu kuning masak lemak",
+      "serving": "1 senduk",
+      "weight_g": 60,
+      "calories_kcal": 50,
+      "reference": "NP"
+    },
+    {
+      "category": "SAYUR-SAYURAN",
+      "name": "Lontong dengan sayur lodeh",
+      "serving": "1 mangkuk",
+      "weight_g": 270,
+      "calories_kcal": 280,
+      "reference": "NP"
+    },
+    {
+      "category": "SAYUR-SAYURAN",
+      "name": "Peria goreng telur",
+      "serving": "1 senduk",
+      "weight_g": 40,
+      "calories_kcal": 70,
+      "reference": "NP"
+    },
+    {
+      "category": "KEKACANG",
+      "name": "Petola masak air",
+      "serving": "1 senduk",
+      "weight_g": 60,
+      "calories_kcal": 50,
+      "reference": "NP"
+    },
+    {
+      "category": "KEKACANG",
+      "name": "Pucuk manis + labu kuning masak lemak",
+      "serving": "1 senduk",
+      "weight_g": 105,
+      "calories_kcal": 150,
+      "reference": "NP"
+    },
+    {
+      "category": "KEKACANG",
+      "name": "Pucuk manis masak kuah lemak putih",
+      "serving": "1 senduk",
+      "weight_g": 90,
+      "calories_kcal": 100,
+      "reference": "NP"
+    },
+    {
+      "category": "KEKACANG",
+      "name": "Pucuk paku masak lemak",
+      "serving": "1 senduk",
+      "weight_g": 40,
+      "calories_kcal": 140,
+      "reference": "NP"
+    },
+    {
+      "category": "KEKACANG",
+      "name": "Rebung masak lemak",
+      "serving": "1 senduk",
+      "weight_g": 60,
+      "calories_kcal": 50,
+      "reference": "NP"
+    },
+    {
+      "category": "KEKACANG",
+      "name": "Salad",
+      "serving": "3 tangkai",
+      "weight_g": 30,
+      "calories_kcal": 5,
+      "reference": "NP"
+    },
+    {
+      "category": "KEKACANG",
+      "name": "Salad Arab",
+      "serving": "1 senduk",
+      "weight_g": 50,
+      "calories_kcal": 60,
+      "reference": "NP"
+    },
+    {
+      "category": "KEKACANG",
+      "name": "Salad crabstick with honeydew",
+      "serving": "1 senduk",
+      "weight_g": 80,
+      "calories_kcal": 120,
+      "reference": "NP"
+    },
+    {
+      "category": "KEKACANG",
+      "name": "Salad telur",
+      "serving": "1 senduk",
+      "weight_g": 50,
+      "calories_kcal": 110,
+      "reference": "NP"
+    },
+    {
+      "category": "KEKACANG",
+      "name": "Salad telur",
+      "serving": "1 senduk",
+      "weight_g": 50,
+      "calories_kcal": 110,
+      "reference": "NP"
+    },
+    {
+      "category": "KEKACANG",
+      "name": "Sawi chap choy goreng",
+      "serving": "1 senduk",
+      "weight_g": 60,
+      "calories_kcal": 50,
+      "reference": "NP"
+    },
+    {
+      "category": "KEKACANG",
+      "name": "Sawi hijau goreng sos tiram",
+      "serving": "1 senduk",
+      "weight_g": 60,
+      "calories_kcal": 55,
+      "reference": "NP"
+    },
+    {
+      "category": "KEKACANG",
+      "name": "Sawi Jepun goreng",
+      "serving": "1 senduk",
+      "weight_g": 60,
+      "calories_kcal": 50,
+      "reference": "NP"
+    },
+    {
+      "category": "KEKACANG",
+      "name": "Sawi putih goreng",
+      "serving": "1 senduk",
+      "weight_g": 60,
+      "calories_kcal": 50,
+      "reference": "NP"
+    },
+    {
+      "category": "KEKACANG",
+      "name": "Sawi putih goreng kuah sos tiram",
+      "serving": "1 senduk",
+      "weight_g": 60,
+      "calories_kcal": 55,
+      "reference": "NP"
+    },
+    {
+      "category": "KEKACANG",
+      "name": "Sayur campur goreng",
+      "serving": "1 senduk",
+      "weight_g": 60,
+      "calories_kcal": 50,
+      "reference": "NP"
+    },
+    {
+      "category": "KEKACANG",
+      "name": "Sayur goreng Jawa",
+      "serving": "1 senduk",
+      "weight_g": 50,
+      "calories_kcal": 70,
+      "reference": "NP"
+    },
+    {
+      "category": "KEKACANG",
+      "name": "Sayur lodeh",
+      "serving": "2 senduk",
+      "weight_g": 90,
+      "calories_kcal": 125,
+      "reference": "NP"
+    },
+    {
+      "category": "KEKACANG",
+      "name": "Sup cendawan",
+      "serving": "1 mangkuk kecil",
+      "weight_g": 150,
+      "calories_kcal": 75,
+      "reference": "NP"
+    },
+    {
+      "category": "KEKACANG",
+      "name": "Sup sayur campur",
+      "serving": "1 mangkuk kecil",
+      "weight_g": 150,
+      "calories_kcal": 45,
+      "reference": "NP"
+    },
+    {
+      "category": "KEKACANG",
+      "name": "Sup yong tau foo",
+      "serving": "1 senduk",
+      "weight_g": 50,
+      "calories_kcal": 50,
+      "reference": "NP"
+    },
+    {
+      "category": "KEKACANG",
+      "name": "Taugeh",
+      "serving": "1 senduk",
+      "weight_g": 30,
+      "calories_kcal": 10,
+      "reference": "NP"
+    },
+    {
+      "category": "KEKACANG",
+      "name": "Taugeh sos tiram",
+      "serving": "1 senduk",
+      "weight_g": 40,
+      "calories_kcal": 40,
+      "reference": "NP"
+    },
+    {
+      "category": "KEKACANG",
+      "name": "Terung goreng berlada",
+      "serving": "1 senduk",
+      "weight_g": 70,
+      "calories_kcal": 70,
+      "reference": "NP"
+    },
+    {
+      "category": "KEKACANG",
+      "name": "Timun & nenas",
+      "serving": "1 cawan",
+      "weight_g": 40,
+      "calories_kcal": 50,
+      "reference": "NP"
+    },
+    {
+      "category": "KEKACANG",
+      "name": "Tomato",
+      "serving": "1 biji",
+      "weight_g": 20,
+      "calories_kcal": 5,
+      "reference": "NC"
+    },
+    {
+      "category": "KEKACANG",
+      "name": "Ubi kayu goreng",
+      "serving": "3 keping",
+      "weight_g": 90,
+      "calories_kcal": 145,
+      "reference": "NP"
+    },
+    {
+      "category": "KEKACANG",
+      "name": "Ulam",
+      "serving": "1 cawan",
+      "weight_g": 30,
+      "calories_kcal": 10,
+      "reference": "NP"
+    },
+    {
+      "category": "KEKACANG",
+      "name": "Urap (paku pakis, taugeh, kelapa parut)",
+      "serving": "1 senduk",
+      "weight_g": 40,
+      "calories_kcal": 45,
+      "reference": "NP"
+    },
+    {
+      "category": "KEKACANG",
+      "name": "Sup tauhu Jepun",
+      "serving": "1 senduk",
+      "weight_g": 90,
+      "calories_kcal": 60,
+      "reference": "NP"
+    },
+    {
+      "category": "KEKACANG",
+      "name": "Tauhu goreng",
+      "serving": "1 keping",
+      "weight_g": 40,
+      "calories_kcal": 70,
+      "reference": "NP"
+    },
+    {
+      "category": "KEKACANG",
+      "name": "Tauhu kukus",
+      "serving": "1 keping",
+      "weight_g": 50,
+      "calories_kcal": 35,
+      "reference": "NP"
+    },
+    {
+      "category": "KEKACANG",
+      "name": "Tauhu masak sos tiram",
+      "serving": "1 ketul",
+      "weight_g": 90,
+      "calories_kcal": 100,
+      "reference": "NP"
+    },
+    {
+      "category": "KEKACANG",
+      "name": "Tauhu sambal",
+      "serving": "1 keping",
+      "weight_g": 70,
+      "calories_kcal": 105,
+      "reference": "NP"
+    },
+    {
+      "category": "KEKACANG",
+      "name": "Tauhu sumbat",
+      "serving": "2 keping",
+      "weight_g": 100,
+      "calories_kcal": 140,
+      "reference": "NP"
+    },
+    {
+      "category": "KEKACANG",
+      "name": "Tempe goreng",
+      "serving": "1 keping",
+      "weight_g": 70,
+      "calories_kcal": 255,
+      "reference": "NP"
+    },
+    {
+      "category": "KEKACANG",
+      "name": "Tempe goreng cili",
+      "serving": "1 senduk",
+      "weight_g": 40,
+      "calories_kcal": 80,
+      "reference": "NP"
+    },
+    {
+      "category": "KEKACANG",
+      "name": "Tempe goreng Jawa",
+      "serving": "1 senduk",
+      "weight_g": 40,
+      "calories_kcal": 100,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Agar-agar buah",
+      "serving": "1 potong kecil",
+      "weight_g": 30,
+      "calories_kcal": 20,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Aiskrim (perisa coklat)",
+      "serving": "2 senduk",
+      "weight_g": 70,
+      "calories_kcal": 305,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Aneka kuih talam",
+      "serving": "1 ketul",
+      "weight_g": 40,
+      "calories_kcal": 60,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Apam beras",
+      "serving": "1 biji",
+      "weight_g": 30,
+      "calories_kcal": 50,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Apam butter",
+      "serving": "1 keping",
+      "weight_g": 40,
+      "calories_kcal": 110,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Apam gula hangus",
+      "serving": "1 biji",
+      "weight_g": 50,
+      "calories_kcal": 160,
+      "reference": "NC"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Apam manis",
+      "serving": "1 keping",
+      "weight_g": 100,
+      "calories_kcal": 70,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Apam pisang",
+      "serving": "1 keping",
+      "weight_g": 40,
+      "calories_kcal": 110,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Apam putih kukus + kelapa",
+      "serving": "1 biji",
+      "weight_g": 50,
+      "calories_kcal": 95,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Apam salut kelapa",
+      "serving": "1 biji",
+      "weight_g": 40,
+      "calories_kcal": 110,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Apple cinnamon crumble",
+      "serving": "1 senduk",
+      "weight_g": 50,
+      "calories_kcal": 160,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Assorted cake",
+      "serving": "1 keping kecil",
+      "weight_g": 20,
+      "calories_kcal": 100,
+      "reference": "NC"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Bergedil kentang",
+      "serving": "1 ketul",
+      "weight_g": 50,
+      "calories_kcal": 110,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Bijirin sarapan",
+      "serving": "1 cawan",
+      "weight_g": 40,
+      "calories_kcal": 130,
+      "reference": "Atlas"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Bingka jagung",
+      "serving": "1 potong",
+      "weight_g": 30,
+      "calories_kcal": 150,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Bingka pandan",
+      "serving": "1 potong",
+      "weight_g": 40,
+      "calories_kcal": 80,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Bingka roti",
+      "serving": "1 potong",
+      "weight_g": 70,
+      "calories_kcal": 80,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Bingka tepung beras",
+      "serving": "1 potong",
+      "weight_g": 40,
+      "calories_kcal": 75,
+      "reference": "NC"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Biskut Almond London",
+      "serving": "1 keping",
+      "weight_g": 5,
+      "calories_kcal": 30,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Biskut cornflakes",
+      "serving": "2 keping",
+      "weight_g": 15,
+      "calories_kcal": 80,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Biskut kraker",
+      "serving": "1 keping",
+      "weight_g": 10,
+      "calories_kcal": 40,
+      "reference": "NC"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Biskut Marie",
+      "serving": "3 keping",
+      "weight_g": 20,
+      "calories_kcal": 100,
+      "reference": "NC"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Biskut oat",
+      "serving": "3 keping",
+      "weight_g": 40,
+      "calories_kcal": 200,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Bread butter pudding with vanilla sauce",
+      "serving": "1 senduk",
+      "weight_g": 80,
+      "calories_kcal": 120,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Buah Melaka",
+      "serving": "2 biji kecil",
+      "weight_g": 30,
+      "calories_kcal": 60,
+      "reference": "NC"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Bubur cha-cha",
+      "serving": "1 mangkuk kecil",
+      "weight_g": 120,
+      "calories_kcal": 180,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Bubur jagung",
+      "serving": "2 senduk",
+      "weight_g": 100,
+      "calories_kcal": 210,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Bubur kacang merah",
+      "serving": "1 mangkuk kecil",
+      "weight_g": 230,
+      "calories_kcal": 101,
+      "reference": "NC"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Bubur pulut hitam",
+      "serving": "1 mangkuk kecil",
+      "weight_g": 150,
+      "calories_kcal": 115,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Bun ikan bilis",
+      "serving": "1 biji",
+      "weight_g": 60,
+      "calories_kcal": 180,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Bun kacang",
+      "serving": "1 biji",
+      "weight_g": 60,
+      "calories_kcal": 190,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Bun kismis",
+      "serving": "1 biji",
+      "weight_g": 40,
+      "calories_kcal": 115,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Bun pandan kelapa",
+      "serving": "1 biji",
+      "weight_g": 50,
+      "calories_kcal": 165,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Burger daging",
+      "serving": "1 set",
+      "weight_g": 130,
+      "calories_kcal": 320,
+      "reference": "NC"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Butter cookies",
+      "serving": "3 keping",
+      "weight_g": 30,
+      "calories_kcal": 130,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Buttered prawn",
+      "serving": "5 ekor",
+      "weight_g": 100,
+      "calories_kcal": 180,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Cakoi",
+      "serving": "2 biji",
+      "weight_g": 40,
+      "calories_kcal": 80,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Capati",
+      "serving": "1 keping",
+      "weight_g": 100,
+      "calories_kcal": 300,
+      "reference": "NC"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Cek mek molek",
+      "serving": "1 ketul",
+      "weight_g": 30,
+      "calories_kcal": 60,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Cekodok pisang",
+      "serving": "1 biji",
+      "weight_g": 70,
+      "calories_kcal": 180,
+      "reference": "NC"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Chee-pah",
+      "serving": "1 biji",
+      "weight_g": 50,
+      "calories_kcal": 150,
+      "reference": "NC"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Cheese tart",
+      "serving": "1 biji",
+      "weight_g": 20,
+      "calories_kcal": 80,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Chicken boxing",
+      "serving": "3 ketul",
+      "weight_g": 50,
+      "calories_kcal": 120,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Chilled Longan with Jelly",
+      "serving": "1 cawan",
+      "weight_g": 150,
+      "calories_kcal": 80,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Chocolate eclair",
+      "serving": "1 ketul",
+      "weight_g": 20,
+      "calories_kcal": 100,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Cream puff",
+      "serving": "1 biji",
+      "weight_g": 50,
+      "calories_kcal": 170,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Cucumber & tomato raita",
+      "serving": "1 senduk",
+      "weight_g": 80,
+      "calories_kcal": 30,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Cucur badak",
+      "serving": "1 biji",
+      "weight_g": 30,
+      "calories_kcal": 80,
+      "reference": "NC"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Cucur bawang",
+      "serving": "3 biji",
+      "weight_g": 50,
+      "calories_kcal": 80,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Cucur ikan bilis",
+      "serving": "3 biji",
+      "weight_g": 50,
+      "calories_kcal": 80,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Cucur jagung",
+      "serving": "3 biji",
+      "weight_g": 30,
+      "calories_kcal": 70,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Cucur lemak manis",
+      "serving": "3 biji",
+      "weight_g": 30,
+      "calories_kcal": 200,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Cucur manis",
+      "serving": "3 biji",
+      "weight_g": 30,
+      "calories_kcal": 90,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Cucur pisang (cekodok)",
+      "serving": "3 biji",
+      "weight_g": 50,
+      "calories_kcal": 120,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Cucur sayur",
+      "serving": "3 biji",
+      "weight_g": 50,
+      "calories_kcal": 80,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Danish pastry",
+      "serving": "1 ketul",
+      "weight_g": 50,
+      "calories_kcal": 150,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Donat coklat",
+      "serving": "1 biji",
+      "weight_g": 80,
+      "calories_kcal": 330,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Donat pedas (disira dengan sambal)",
+      "serving": "1 biji",
+      "weight_g": 50,
+      "calories_kcal": 130,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Emping",
+      "serving": "1 keping",
+      "weight_g": 20,
+      "calories_kcal": 70,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "French toast",
+      "serving": "1 keping",
+      "weight_g": 50,
+      "calories_kcal": 150,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Fruit cocktail triffle pudding",
+      "serving": "1 potong",
+      "weight_g": 60,
+      "calories_kcal": 110,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Fruit tartlet",
+      "serving": "1 biji",
+      "weight_g": 60,
+      "calories_kcal": 160,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Honeydew sago",
+      "serving": "1 mangkuk kecil",
+      "weight_g": 100,
+      "calories_kcal": 220,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Jagung rebus",
+      "serving": "1 cawan kecil",
+      "weight_g": 120,
+      "calories_kcal": 110,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Jem strawberi",
+      "serving": "1 sudu makan",
+      "weight_g": 30,
+      "calories_kcal": 80,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Karipap ayam",
+      "serving": "1 biji",
+      "weight_g": 40,
+      "calories_kcal": 140,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Karipap biasa inti keledek",
+      "serving": "1 biji",
+      "weight_g": 40,
+      "calories_kcal": 120,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Karipap biasa inti kentang",
+      "serving": "1 biji",
+      "weight_g": 40,
+      "calories_kcal": 130,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Karipap biasa inti sardin",
+      "serving": "1 biji",
+      "weight_g": 40,
+      "calories_kcal": 160,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Karipap daging",
+      "serving": "1 biji",
+      "weight_g": 40,
+      "calories_kcal": 140,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Karipap inti isi ikan",
+      "serving": "1 biji",
+      "weight_g": 40,
+      "calories_kcal": 170,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Karipap kentang",
+      "serving": "1 biji",
+      "weight_g": 40,
+      "calories_kcal": 130,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Karipap mini",
+      "serving": "1 biji",
+      "weight_g": 20,
+      "calories_kcal": 120,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Karipap pusing",
+      "serving": "1 biji",
+      "weight_g": 40,
+      "calories_kcal": 90,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Karipap pusing inti keledek",
+      "serving": "1 biji",
+      "weight_g": 40,
+      "calories_kcal": 130,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Karipap pusing inti kentang",
+      "serving": "1 biji",
+      "weight_g": 40,
+      "calories_kcal": 130,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Karipap sardin",
+      "serving": "1 biji",
+      "weight_g": 40,
+      "calories_kcal": 155,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Kastad jagung",
+      "serving": "1 potong",
+      "weight_g": 90,
+      "calories_kcal": 100,
+      "reference": "NC"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Kasturi kacang",
+      "serving": "1 biji",
+      "weight_g": 70,
+      "calories_kcal": 170,
+      "reference": "NC"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Kasui",
+      "serving": "1 potong",
+      "weight_g": 100,
+      "calories_kcal": 160,
+      "reference": "NC"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Kek biasa",
+      "serving": "1 potong",
+      "weight_g": 23,
+      "calories_kcal": 100,
+      "reference": "NC"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Kek buah",
+      "serving": "1 potong",
+      "weight_g": 40,
+      "calories_kcal": 130,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Kek cawan",
+      "serving": "1 biji",
+      "weight_g": 40,
+      "calories_kcal": 160,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Kek coklat",
+      "serving": "1 potong",
+      "weight_g": 40,
+      "calories_kcal": 120,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Kek coklat moist",
+      "serving": "1 potong",
+      "weight_g": 40,
+      "calories_kcal": 220,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Kek gulung berjem",
+      "serving": "1 keping",
+      "weight_g": 40,
+      "calories_kcal": 130,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Kek keju",
+      "serving": "1 potong besar",
+      "weight_g": 70,
+      "calories_kcal": 220,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Kek keju blueberry",
+      "serving": "1 keping",
+      "weight_g": 30,
+      "calories_kcal": 100,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Kek lapis strawberi (Apollo)",
+      "serving": "1 potong",
+      "weight_g": 20,
+      "calories_kcal": 85,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Kek mentega",
+      "serving": "1 potong",
+      "weight_g": 40,
+      "calories_kcal": 160,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Kek pisang",
+      "serving": "1 potong",
+      "weight_g": 30,
+      "calories_kcal": 100,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Kek span",
+      "serving": "1 potong",
+      "weight_g": 30,
+      "calories_kcal": 90,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Kek swiss roll",
+      "serving": "1 potong",
+      "weight_g": 10,
+      "calories_kcal": 40,
+      "reference": "NC"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Kek swiss roll perasa coklat",
+      "serving": "1 potong",
+      "weight_g": 10,
+      "calories_kcal": 40,
+      "reference": "NC"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Keladi goreng",
+      "serving": "2 keping",
+      "weight_g": 60,
+      "calories_kcal": 180,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Keledek goreng",
+      "serving": "2 keping",
+      "weight_g": 40,
+      "calories_kcal": 170,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Keledek/ keladi goreng",
+      "serving": "3 keping",
+      "weight_g": 90,
+      "calories_kcal": 175,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Kentang goreng (French fries)",
+      "serving": "1 cawan kecil",
+      "weight_g": 90,
+      "calories_kcal": 290,
+      "reference": "NC"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Kentang goreng (wedges)",
+      "serving": "4 keping",
+      "weight_g": 40,
+      "calories_kcal": 135,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Kentang lecek",
+      "serving": "1 senduk",
+      "weight_g": 80,
+      "calories_kcal": 70,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Kerepek bawang",
+      "serving": "3 keping",
+      "weight_g": 12,
+      "calories_kcal": 60,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Kerepek pisang",
+      "serving": "6 keping",
+      "weight_g": 10,
+      "calories_kcal": 50,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Kerepek ubi kayu",
+      "serving": "1 keping",
+      "weight_g": 10,
+      "calories_kcal": 40,
+      "reference": "NC"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Keria",
+      "serving": "1 biji",
+      "weight_g": 30,
+      "calories_kcal": 90,
+      "reference": "NC"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Keropok ikan",
+      "serving": "5 keping",
+      "weight_g": 30,
+      "calories_kcal": 150,
+      "reference": "NC"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Keropok lekor",
+      "serving": "3 keping \nsederhana",
+      "weight_g": 70,
+      "calories_kcal": 210,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Keropok udang",
+      "serving": "½ cawan",
+      "weight_g": 20,
+      "calories_kcal": 85,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Ketayap",
+      "serving": "1 keping",
+      "weight_g": 70,
+      "calories_kcal": 150,
+      "reference": "NC"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Ketupat nasi",
+      "serving": "5 potong",
+      "weight_g": 200,
+      "calories_kcal": 215,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Ketupat pulut",
+      "serving": "1 biji",
+      "weight_g": 45,
+      "calories_kcal": 130,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Koci pulut hitam",
+      "serving": "1 biji",
+      "weight_g": 80,
+      "calories_kcal": 160,
+      "reference": "NC"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Kole kacang",
+      "serving": "1 potong",
+      "weight_g": 30,
+      "calories_kcal": 80,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Kole kacang",
+      "serving": "1 potong",
+      "weight_g": 30,
+      "calories_kcal": 80,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Kuah cili nasi ayam",
+      "serving": "1 sudu makan",
+      "weight_g": 20,
+      "calories_kcal": 10,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Kuih bakar",
+      "serving": "1 potong",
+      "weight_g": 40,
+      "calories_kcal": 80,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Kuih bakar (Kemboja)",
+      "serving": "1 potong",
+      "weight_g": 40,
+      "calories_kcal": 80,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Kuih bakul",
+      "serving": "1 biji",
+      "weight_g": 30,
+      "calories_kcal": 60,
+      "reference": "NC"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Kuih bangkit",
+      "serving": "1 biji",
+      "weight_g": 3,
+      "calories_kcal": 15,
+      "reference": "NC"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Kuih bangkit sagu",
+      "serving": "1 biji",
+      "weight_g": 4,
+      "calories_kcal": 20,
+      "reference": "NC"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Kuih bom",
+      "serving": "1 biji",
+      "weight_g": 60,
+      "calories_kcal": 200,
+      "reference": "NC"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Kuih buah rotan",
+      "serving": "1 biji",
+      "weight_g": 3,
+      "calories_kcal": 10,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Kuih cara berlauk",
+      "serving": "2 keping",
+      "weight_g": 60,
+      "calories_kcal": 80,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Kuih cara manis",
+      "serving": "2 keping",
+      "weight_g": 40,
+      "calories_kcal": 125,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Kuih kacang",
+      "serving": "1 biji",
+      "weight_g": 20,
+      "calories_kcal": 90,
+      "reference": "NC"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Kuih kapit",
+      "serving": "1 keping",
+      "weight_g": 4,
+      "calories_kcal": 20,
+      "reference": "NC"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Kuih karas",
+      "serving": "1 keping",
+      "weight_g": 10,
+      "calories_kcal": 50,
+      "reference": "NC"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Kuih kastard jagung",
+      "serving": "1 potong",
+      "weight_g": 40,
+      "calories_kcal": 50,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Kuih kasturi",
+      "serving": "1 biji",
+      "weight_g": 70,
+      "calories_kcal": 170,
+      "reference": "NC"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Kuih kasui",
+      "serving": "1 potong",
+      "weight_g": 40,
+      "calories_kcal": 60,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Kuih koci pulut hitam",
+      "serving": "1 biji",
+      "weight_g": 50,
+      "calories_kcal": 100,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Kuih koci pulut putih",
+      "serving": "1 biji",
+      "weight_g": 50,
+      "calories_kcal": 110,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Kuih lapis",
+      "serving": "1 potong",
+      "weight_g": 90,
+      "calories_kcal": 140,
+      "reference": "NC"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Kuih lapis pelangi",
+      "serving": "1 potong",
+      "weight_g": 40,
+      "calories_kcal": 70,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Kuih lidah kucing",
+      "serving": "1 keping",
+      "weight_g": 10,
+      "calories_kcal": 50,
+      "reference": "NC"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Kuih lompang",
+      "serving": "1 biji",
+      "weight_g": 90,
+      "calories_kcal": 120,
+      "reference": "NC"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Kuih sagu",
+      "serving": "1 potong",
+      "weight_g": 90,
+      "calories_kcal": 130,
+      "reference": "NC"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Kuih talam ubi kayu",
+      "serving": "1 potong",
+      "weight_g": 50,
+      "calories_kcal": 80,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Laddu",
+      "serving": "1 keping",
+      "weight_g": 70,
+      "calories_kcal": 310,
+      "reference": "NC"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Lemang",
+      "serving": "1 potong",
+      "weight_g": 30,
+      "calories_kcal": 100,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Lempeng gulung sardin",
+      "serving": "2 keping",
+      "weight_g": 70,
+      "calories_kcal": 210,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Lempeng gulung sayur",
+      "serving": "1 keping",
+      "weight_g": 80,
+      "calories_kcal": 200,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Lempeng kosong",
+      "serving": "3 keping",
+      "weight_g": 80,
+      "calories_kcal": 260,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Lempeng pisang",
+      "serving": "2 keping",
+      "weight_g": 80,
+      "calories_kcal": 110,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Lepat labu",
+      "serving": "1 keping",
+      "weight_g": 85,
+      "calories_kcal": 180,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Lepat pisang",
+      "serving": "1 biji",
+      "weight_g": 90,
+      "calories_kcal": 180,
+      "reference": "NC"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Lepat ubi",
+      "serving": "1 biji",
+      "weight_g": 90,
+      "calories_kcal": 190,
+      "reference": "NC"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Lompang",
+      "serving": "1 biji",
+      "weight_g": 90,
+      "calories_kcal": 190,
+      "reference": "NC"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Lopes pulut",
+      "serving": "1 keping",
+      "weight_g": 80,
+      "calories_kcal": 160,
+      "reference": "NC"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Mini egg tart",
+      "serving": "1 ketul",
+      "weight_g": 30,
+      "calories_kcal": 85,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Mini pizza",
+      "serving": "1 keping",
+      "weight_g": 60,
+      "calories_kcal": 130,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Mini quiche",
+      "serving": "1 ketul",
+      "weight_g": 30,
+      "calories_kcal": 75,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Muffin coklat",
+      "serving": "1 biji",
+      "weight_g": 35,
+      "calories_kcal": 135,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Muffin coklat (Kenny Rogers Roaster)",
+      "serving": "1 biji",
+      "weight_g": 65,
+      "calories_kcal": 225,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Muffin pisang",
+      "serving": "1 biji",
+      "weight_g": 35,
+      "calories_kcal": 140,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Muffin pisang (Kenny Rogers Roaster)",
+      "serving": "1 biji",
+      "weight_g": 55,
+      "calories_kcal": 192,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Muffin vanilla",
+      "serving": "1 biji",
+      "weight_g": 35,
+      "calories_kcal": 145,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Muffin vanilla (Kenny Rogers Roaster)",
+      "serving": "1 biji",
+      "weight_g": 60,
+      "calories_kcal": 230,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Murtabak",
+      "serving": "1 keping",
+      "weight_g": 80,
+      "calories_kcal": 130,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Murtabak ayam",
+      "serving": "1 keping",
+      "weight_g": 80,
+      "calories_kcal": 130,
+      "reference": "NC"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Murtabak mini",
+      "serving": "1 keping",
+      "weight_g": 40,
+      "calories_kcal": 60,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Mushroom soup",
+      "serving": "1 mangkuk kecil",
+      "weight_g": 150,
+      "calories_kcal": 60,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Nasi impit",
+      "serving": "8 kiub",
+      "weight_g": 50,
+      "calories_kcal": 80,
+      "reference": "Atlas"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Nenas Bombay",
+      "serving": "1 senduk",
+      "weight_g": 45,
+      "calories_kcal": 40,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Nugget ayam",
+      "serving": "1 keping",
+      "weight_g": 20,
+      "calories_kcal": 60,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Nugget ayam + kentang goreng",
+      "serving": "1 set",
+      "weight_g": 110,
+      "calories_kcal": 350,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Oat calcium cracker",
+      "serving": "1 paket",
+      "weight_g": 22,
+      "calories_kcal": 115,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Otak-otak",
+      "serving": "1 keping",
+      "weight_g": 30,
+      "calories_kcal": 70,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Papadom",
+      "serving": "3 keping",
+      "weight_g": 10,
+      "calories_kcal": 20,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Pasembor",
+      "serving": "1 set",
+      "weight_g": 260,
+      "calories_kcal": 170,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Pau ayam",
+      "serving": "1 biji",
+      "weight_g": 90,
+      "calories_kcal": 210,
+      "reference": "NC"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Pau goreng (Burger Malaysia)",
+      "serving": "1 biji",
+      "weight_g": 50,
+      "calories_kcal": 130,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Pau kacang merah",
+      "serving": "1 biji",
+      "weight_g": 80,
+      "calories_kcal": 220,
+      "reference": "NC"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Pau kaya",
+      "serving": "1 biji",
+      "weight_g": 50,
+      "calories_kcal": 130,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Pau kelapa",
+      "serving": "1 biji",
+      "weight_g": 60,
+      "calories_kcal": 170,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Pau sardin",
+      "serving": "1 biji",
+      "weight_g": 50,
+      "calories_kcal": 120,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Pecal & kuah kacang",
+      "serving": "1 senduk",
+      "weight_g": 40,
+      "calories_kcal": 45,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Peneram",
+      "serving": "1 keping",
+      "weight_g": 60,
+      "calories_kcal": 280,
+      "reference": "NC"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Pengat keledek, gula merah",
+      "serving": "1 mangkuk",
+      "weight_g": 150,
+      "calories_kcal": 480,
+      "reference": "NC"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Pengat labu + keledek",
+      "serving": "1 senduk",
+      "weight_g": 100,
+      "calories_kcal": 170,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Pengat labu kuning",
+      "serving": "2 senduk",
+      "weight_g": 100,
+      "calories_kcal": 185,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Pengat pisang",
+      "serving": "1 mangkuk kecil",
+      "weight_g": 110,
+      "calories_kcal": 200,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Pengat pisang nipah",
+      "serving": "1 mangkuk kecil",
+      "weight_g": 150,
+      "calories_kcal": 280,
+      "reference": "NC"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Pie ayam",
+      "serving": "1 biji",
+      "weight_g": 40,
+      "calories_kcal": 100,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Pie tee",
+      "serving": "1 biji",
+      "weight_g": 30,
+      "calories_kcal": 90,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Pisang goreng",
+      "serving": "3 keping",
+      "weight_g": 70,
+      "calories_kcal": 130,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Piza sayur-sayuran",
+      "serving": "1 keping",
+      "weight_g": 80,
+      "calories_kcal": 200,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Plain biscuit",
+      "serving": "3 keping",
+      "weight_g": 30,
+      "calories_kcal": 120,
+      "reference": "NC"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Popia basah",
+      "serving": "1 biji",
+      "weight_g": 40,
+      "calories_kcal": 70,
+      "reference": "Atlas"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Popia basah",
+      "serving": "1 biji",
+      "weight_g": 40,
+      "calories_kcal": 80,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Popia goreng",
+      "serving": "1 biji",
+      "weight_g": 40,
+      "calories_kcal": 70,
+      "reference": "Atlas"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Popia sayur",
+      "serving": "1 biji",
+      "weight_g": 40,
+      "calories_kcal": 75,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Popiah otak-otak goreng",
+      "serving": "1 biji",
+      "weight_g": 30,
+      "calories_kcal": 150,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Potato salad",
+      "serving": "1 senduk",
+      "weight_g": 45,
+      "calories_kcal": 65,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Potato wedges",
+      "serving": "2 ketul",
+      "weight_g": 40,
+      "calories_kcal": 95,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Puding jagung",
+      "serving": "1 potong",
+      "weight_g": 90,
+      "calories_kcal": 90,
+      "reference": "NC"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Puding roti",
+      "serving": "1 potong",
+      "weight_g": 70,
+      "calories_kcal": 86,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Pulut berinti kelapa",
+      "serving": "1 biji",
+      "weight_g": 50,
+      "calories_kcal": 110,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Pulut berinti kelapa pedas",
+      "serving": "1 biji",
+      "weight_g": 50,
+      "calories_kcal": 110,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Pulut panggang",
+      "serving": "1 biji",
+      "weight_g": 80,
+      "calories_kcal": 180,
+      "reference": "NC"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Pulut udang",
+      "serving": "1 biji",
+      "weight_g": 80,
+      "calories_kcal": 180,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Pumpkin oat calcium cracker",
+      "serving": "1 paket",
+      "weight_g": 22,
+      "calories_kcal": 115,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Puteri ayu",
+      "serving": "1 biji",
+      "weight_g": 30,
+      "calories_kcal": 50,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Putu bambu",
+      "serving": "1 biji",
+      "weight_g": 70,
+      "calories_kcal": 190,
+      "reference": "NC"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Putu kacang",
+      "serving": "1 biji",
+      "weight_g": 20,
+      "calories_kcal": 70,
+      "reference": "NC"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Putu mayam",
+      "serving": "1 keping",
+      "weight_g": 50,
+      "calories_kcal": 100,
+      "reference": "NC"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Putu piring",
+      "serving": "1 biji",
+      "weight_g": 30,
+      "calories_kcal": 70,
+      "reference": "NC"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Rempeyek",
+      "serving": "1 keping",
+      "weight_g": 20,
+      "calories_kcal": 120,
+      "reference": "NC"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Rojak",
+      "serving": "2 senduk",
+      "weight_g": 100,
+      "calories_kcal": 230,
+      "reference": "Atlas"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Rojak sayur + kuah kacang",
+      "serving": "1 cawan",
+      "weight_g": 100,
+      "calories_kcal": 90,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Roti (bun)",
+      "serving": "1 biji",
+      "weight_g": 40,
+      "calories_kcal": 140,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Roti bakar kaya & butter",
+      "serving": "2 keping",
+      "weight_g": 70,
+      "calories_kcal": 270,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Roti bakar mentega kacang",
+      "serving": "2 keping",
+      "weight_g": 70,
+      "calories_kcal": 230,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Roti bakar telur",
+      "serving": "2 keping",
+      "weight_g": 60,
+      "calories_kcal": 160,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Roti bijirin penuh",
+      "serving": "2 keping",
+      "weight_g": 60,
+      "calories_kcal": 140,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Roti canai",
+      "serving": "1 keping",
+      "weight_g": 100,
+      "calories_kcal": 320,
+      "reference": "NC"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Roti jala",
+      "serving": "3 keping",
+      "weight_g": 55,
+      "calories_kcal": 80,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Roti putih",
+      "serving": "2 keping",
+      "weight_g": 60,
+      "calories_kcal": 160,
+      "reference": "NC"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Roti roll",
+      "serving": "1 keping",
+      "weight_g": 28,
+      "calories_kcal": 70,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Roti sardin",
+      "serving": "1 keping",
+      "weight_g": 60,
+      "calories_kcal": 130,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Roti sardin celup telur (goreng)",
+      "serving": "1 gulung",
+      "weight_g": 60,
+      "calories_kcal": 125,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Roti sosej",
+      "serving": "1 biji",
+      "weight_g": 70,
+      "calories_kcal": 200,
+      "reference": "Atlas"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Roti/Bun/Rolls",
+      "serving": "1 biji",
+      "weight_g": 30,
+      "calories_kcal": 110,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Salad",
+      "serving": "3 tangkai",
+      "weight_g": 30,
+      "calories_kcal": 5,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Salad & dressing",
+      "serving": "1 senduk",
+      "weight_g": 30,
+      "calories_kcal": 115,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Salad Arab",
+      "serving": "1 senduk",
+      "weight_g": 50,
+      "calories_kcal": 60,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Salad crabstick with honeydew",
+      "serving": "1 senduk",
+      "weight_g": 80,
+      "calories_kcal": 120,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Salad telur",
+      "serving": "1 senduk",
+      "weight_g": 50,
+      "calories_kcal": 110,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Samosa",
+      "serving": "1 biji",
+      "weight_g": 40,
+      "calories_kcal": 120,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Sandwic ayam",
+      "serving": "1 keping",
+      "weight_g": 30,
+      "calories_kcal": 80,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Sandwic ayam + salad",
+      "serving": "1 keping",
+      "weight_g": 30,
+      "calories_kcal": 100,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Sandwic keju + salad",
+      "serving": "1 keping",
+      "weight_g": 30,
+      "calories_kcal": 100,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Sandwic sardin",
+      "serving": "1 keping",
+      "weight_g": 30,
+      "calories_kcal": 80,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Sandwic sardin + salad",
+      "serving": "1 keping",
+      "weight_g": 30,
+      "calories_kcal": 90,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Sandwic telur",
+      "serving": "1 keping",
+      "weight_g": 30,
+      "calories_kcal": 70,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Sandwic telur + salad",
+      "serving": "1 keping",
+      "weight_g": 30,
+      "calories_kcal": 80,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Sandwic tuna",
+      "serving": "1 keping",
+      "weight_g": 30,
+      "calories_kcal": 70,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Sandwic tuna + salad",
+      "serving": "1 keping",
+      "weight_g": 30,
+      "calories_kcal": 90,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Sardin puff",
+      "serving": "1 biji",
+      "weight_g": 30,
+      "calories_kcal": 95,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Sardin roll",
+      "serving": "1 biji",
+      "weight_g": 40,
+      "calories_kcal": 80,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Seaweed oat calcium cracker",
+      "serving": "1 paket",
+      "weight_g": 22,
+      "calories_kcal": 110,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Seri ayu + kelapa",
+      "serving": "1 biji",
+      "weight_g": 20,
+      "calories_kcal": 35,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Seri muka",
+      "serving": "1 potong",
+      "weight_g": 100,
+      "calories_kcal": 190,
+      "reference": "Atlas"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Sesame oat calcium cracker",
+      "serving": "1 paket",
+      "weight_g": 22,
+      "calories_kcal": 115,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Talam kacang merah",
+      "serving": "1 potong",
+      "weight_g": 50,
+      "calories_kcal": 80,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Talam keladi",
+      "serving": "1 potong",
+      "weight_g": 40,
+      "calories_kcal": 90,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Talam keledek",
+      "serving": "1 potong",
+      "weight_g": 40,
+      "calories_kcal": 110,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Talam seri kaya",
+      "serving": "1 potong",
+      "weight_g": 40,
+      "calories_kcal": 60,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Talam seri muka",
+      "serving": "1 potong",
+      "weight_g": 40,
+      "calories_kcal": 80,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Talam Suji",
+      "serving": "1 potong",
+      "weight_g": 30,
+      "calories_kcal": 65,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Talam ubi kayu",
+      "serving": "1 potong",
+      "weight_g": 50,
+      "calories_kcal": 70,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Tapai pulut",
+      "serving": "1 bungkus",
+      "weight_g": 80,
+      "calories_kcal": 130,
+      "reference": "NC"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Tapai pulut",
+      "serving": "1 bungkus",
+      "weight_g": 30,
+      "calories_kcal": 50,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Tat nenas",
+      "serving": "1 biji",
+      "weight_g": 5,
+      "calories_kcal": 20,
+      "reference": "NC"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Tepung bungkus",
+      "serving": "1 biji",
+      "weight_g": 40,
+      "calories_kcal": 110,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Tepung pelita",
+      "serving": "1 biji",
+      "weight_g": 70,
+      "calories_kcal": 100,
+      "reference": "Atlas"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Tumpi",
+      "serving": "1 keping",
+      "weight_g": 10,
+      "calories_kcal": 50,
+      "reference": "NC"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Ubi kayu goreng",
+      "serving": "3 keping",
+      "weight_g": 90,
+      "calories_kcal": 145,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Vadai (kacang dal kuning)",
+      "serving": "1 keping",
+      "weight_g": 40,
+      "calories_kcal": 140,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Wajik",
+      "serving": "1 potong",
+      "weight_g": 20,
+      "calories_kcal": 60,
+      "reference": "NC"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Wholemeal biscuits",
+      "serving": "3 keping",
+      "weight_g": 33,
+      "calories_kcal": 120,
+      "reference": "NP"
+    },
+    {
+      "category": "KUIH MUIH, SNEK DAN PENCUCI MULUT",
+      "name": "Yong Tau Foo",
+      "serving": "1 set",
+      "weight_g": 100,
+      "calories_kcal": 230,
+      "reference": "NP"
+    },
+    {
+      "category": "MAKANAN WESTERN",
+      "name": "Apple cinnamon crumble",
+      "serving": "1 senduk",
+      "weight_g": 50,
+      "calories_kcal": 160,
+      "reference": "NP"
+    },
+    {
+      "category": "MAKANAN WESTERN",
+      "name": "Bread butter pudding with vanilla sauce",
+      "serving": "1 senduk",
+      "weight_g": 80,
+      "calories_kcal": 120,
+      "reference": "NP"
+    },
+    {
+      "category": "MAKANAN WESTERN",
+      "name": "Brocolli & cauliflower goreng",
+      "serving": "1 senduk",
+      "weight_g": 60,
+      "calories_kcal": 20,
+      "reference": "NP"
+    },
+    {
+      "category": "MAKANAN WESTERN",
+      "name": "Butter cookies",
+      "serving": "3 keping",
+      "weight_g": 30,
+      "calories_kcal": 130,
+      "reference": "NP"
+    },
+    {
+      "category": "MAKANAN WESTERN",
+      "name": "Cheese tart",
+      "serving": "1 biji",
+      "weight_g": 20,
+      "calories_kcal": 80,
+      "reference": "NP"
+    },
+    {
+      "category": "MAKANAN WESTERN",
+      "name": "Chicken boxing",
+      "serving": "3 ketul",
+      "weight_g": 50,
+      "calories_kcal": 120,
+      "reference": "NP"
+    },
+    {
+      "category": "MAKANAN WESTERN",
+      "name": "Chicken carbonara with pasta",
+      "serving": "2 senduk",
+      "weight_g": 150,
+      "calories_kcal": 180,
+      "reference": "NP"
+    },
+    {
+      "category": "MAKANAN WESTERN",
+      "name": "Chilled Longan with Jelly",
+      "serving": "1 cawan",
+      "weight_g": 150,
+      "calories_kcal": 80,
+      "reference": "NP"
+    },
+    {
+      "category": "MAKANAN WESTERN",
+      "name": "Chilli prawn chinese style",
+      "serving": "3 ekor",
+      "weight_g": 60,
+      "calories_kcal": 120,
+      "reference": "NP"
+    },
+    {
+      "category": "MAKANAN WESTERN",
+      "name": "Chinese tea",
+      "serving": "1 cawan",
+      "weight_g": 200,
+      "calories_kcal": 0,
+      "reference": "NP"
+    },
+    {
+      "category": "MAKANAN WESTERN",
+      "name": "Coleslaw",
+      "serving": "1 senduk",
+      "weight_g": 75,
+      "calories_kcal": 110,
+      "reference": "NC"
+    },
+    {
+      "category": "MAKANAN WESTERN",
+      "name": "Coleslaw",
+      "serving": "1 senduk",
+      "weight_g": 75,
+      "calories_kcal": 110,
+      "reference": "NP"
+    },
+    {
+      "category": "MAKANAN WESTERN",
+      "name": "Cream of potatoes",
+      "serving": "1 mangkuk kecil",
+      "weight_g": 150,
+      "calories_kcal": 90,
+      "reference": "NP"
+    },
+    {
+      "category": "MAKANAN WESTERN",
+      "name": "Cream puff",
+      "serving": "1 biji",
+      "weight_g": 50,
+      "calories_kcal": 170,
+      "reference": "NP"
+    },
+    {
+      "category": "MAKANAN WESTERN",
+      "name": "Crispy Roasted Chicken with BBQ Sauce",
+      "serving": "1 ketul",
+      "weight_g": 90,
+      "calories_kcal": 170,
+      "reference": "NP"
+    },
+    {
+      "category": "MAKANAN WESTERN",
+      "name": "Cucumber & tomato raita",
+      "serving": "1 senduk",
+      "weight_g": 80,
+      "calories_kcal": 30,
+      "reference": "NP"
+    },
+    {
+      "category": "MAKANAN WESTERN",
+      "name": "Danish pastry",
+      "serving": "1 ketul",
+      "weight_g": 50,
+      "calories_kcal": 150,
+      "reference": "NP"
+    },
+    {
+      "category": "MAKANAN WESTERN",
+      "name": "Fish & chip",
+      "serving": "1 set",
+      "weight_g": 180,
+      "calories_kcal": 570,
+      "reference": "NP"
+    },
+    {
+      "category": "MAKANAN WESTERN",
+      "name": "French toast",
+      "serving": "1 keping",
+      "weight_g": 50,
+      "calories_kcal": 150,
+      "reference": "NP"
+    },
+    {
+      "category": "MAKANAN WESTERN",
+      "name": "Fried rice chinese style with silver anchovies",
+      "serving": "2 senduk",
+      "weight_g": 100,
+      "calories_kcal": 250,
+      "reference": "NP"
+    },
+    {
+      "category": "MAKANAN WESTERN",
+      "name": "Fruit cocktail triffle pudding",
+      "serving": "1 potong",
+      "weight_g": 60,
+      "calories_kcal": 110,
+      "reference": "NP"
+    },
+    {
+      "category": "MAKANAN WESTERN",
+      "name": "Fruit tartlet",
+      "serving": "1 biji",
+      "weight_g": 60,
+      "calories_kcal": 160,
+      "reference": "NP"
+    },
+    {
+      "category": "MAKANAN WESTERN",
+      "name": "Hash potato",
+      "serving": "1 mangkuk kecil",
+      "weight_g": 50,
+      "calories_kcal": 110,
+      "reference": "NP"
+    },
+    {
+      "category": "MAKANAN WESTERN",
+      "name": "Honeydew sago",
+      "serving": "1 mangkuk kecil",
+      "weight_g": 100,
+      "calories_kcal": 220,
+      "reference": "NP"
+    },
+    {
+      "category": "MAKANAN WESTERN",
+      "name": "Kentang goreng (French fries)",
+      "serving": "1 cawan kecil",
+      "weight_g": 90,
+      "calories_kcal": 290,
+      "reference": "NC"
+    },
+    {
+      "category": "MAKANAN WESTERN",
+      "name": "Kentang goreng (wedges)",
+      "serving": "4 keping",
+      "weight_g": 40,
+      "calories_kcal": 135,
+      "reference": "NP"
+    },
+    {
+      "category": "MAKANAN WESTERN",
+      "name": "Kentang lecek",
+      "serving": "1 senduk",
+      "weight_g": 80,
+      "calories_kcal": 70,
+      "reference": "NP"
+    },
+    {
+      "category": "MAKANAN WESTERN",
+      "name": "Makaroni ayam",
+      "serving": "1 senduk",
+      "weight_g": 100,
+      "calories_kcal": 150,
+      "reference": "NP"
+    },
+    {
+      "category": "MAKANAN WESTERN",
+      "name": "Makaroni bakar",
+      "serving": "2 senduk",
+      "weight_g": 90,
+      "calories_kcal": 150,
+      "reference": "NP"
+    },
+    {
+      "category": "MAKANAN WESTERN",
+      "name": "Makaroni goreng",
+      "serving": "2 senduk",
+      "weight_g": 90,
+      "calories_kcal": 300,
+      "reference": "NP"
+    },
+    {
+      "category": "MAKANAN WESTERN",
+      "name": "Mashed potato",
+      "serving": "1 senduk",
+      "weight_g": 80,
+      "calories_kcal": 70,
+      "reference": "NP"
+    },
+    {
+      "category": "MAKANAN WESTERN",
+      "name": "Mini egg tart",
+      "serving": "1 ketul",
+      "weight_g": 30,
+      "calories_kcal": 85,
+      "reference": "NP"
+    },
+    {
+      "category": "MAKANAN WESTERN",
+      "name": "Mini pizza",
+      "serving": "1 keping",
+      "weight_g": 60,
+      "calories_kcal": 130,
+      "reference": "NP"
+    },
+    {
+      "category": "MAKANAN WESTERN",
+      "name": "Mini quiche",
+      "serving": "1 ketul",
+      "weight_g": 30,
+      "calories_kcal": 75,
+      "reference": "NP"
+    },
+    {
+      "category": "MAKANAN WESTERN",
+      "name": "Mix fruit punch",
+      "serving": "1 mangkuk kecil",
+      "weight_g": 140,
+      "calories_kcal": 50,
+      "reference": "NP"
+    },
+    {
+      "category": "MAKANAN WESTERN",
+      "name": "Muffin coklat",
+      "serving": "1 biji",
+      "weight_g": 35,
+      "calories_kcal": 135,
+      "reference": "NP"
+    },
+    {
+      "category": "MAKANAN WESTERN",
+      "name": "Muffin coklat (Kenny Rogers Roaster)",
+      "serving": "1 biji",
+      "weight_g": 65,
+      "calories_kcal": 225,
+      "reference": "NP"
+    },
+    {
+      "category": "MAKANAN WESTERN",
+      "name": "Muffin pisang",
+      "serving": "1 biji",
+      "weight_g": 35,
+      "calories_kcal": 140,
+      "reference": "NP"
+    },
+    {
+      "category": "MAKANAN WESTERN",
+      "name": "Muffin pisang (Kenny Rogers Roaster)",
+      "serving": "1 biji",
+      "weight_g": 55,
+      "calories_kcal": 192,
+      "reference": "NP"
+    },
+    {
+      "category": "MAKANAN WESTERN",
+      "name": "Muffin vanilla",
+      "serving": "1 biji",
+      "weight_g": 35,
+      "calories_kcal": 145,
+      "reference": "NP"
+    },
+    {
+      "category": "MAKANAN WESTERN",
+      "name": "Muffin vanilla (Kenny Rogers Roaster)",
+      "serving": "1 biji",
+      "weight_g": 60,
+      "calories_kcal": 229,
+      "reference": "NP"
+    },
+    {
+      "category": "MAKANAN WESTERN",
+      "name": "Mushroom soup",
+      "serving": "1 mangkuk kecil",
+      "weight_g": 150,
+      "calories_kcal": 60,
+      "reference": "NP"
+    },
+    {
+      "category": "MAKANAN WESTERN",
+      "name": "Nugget ayam + kentang goreng",
+      "serving": "1 set",
+      "weight_g": 110,
+      "calories_kcal": 350,
+      "reference": "NP"
+    },
+    {
+      "category": "MAKANAN WESTERN",
+      "name": "Oat calcium cracker",
+      "serving": "1 paket",
+      "weight_g": 22,
+      "calories_kcal": 115,
+      "reference": "NP"
+    },
+    {
+      "category": "JEM DAN SAPUAN",
+      "name": "Pan fried butter fish",
+      "serving": "1 ketul",
+      "weight_g": 90,
+      "calories_kcal": 190,
+      "reference": "NP"
+    },
+    {
+      "category": "JEM DAN SAPUAN",
+      "name": "Piza sayur-sayuran",
+      "serving": "1 keping",
+      "weight_g": 80,
+      "calories_kcal": 200,
+      "reference": "NP"
+    },
+    {
+      "category": "JEM DAN SAPUAN",
+      "name": "Potato salad",
+      "serving": "1 senduk",
+      "weight_g": 45,
+      "calories_kcal": 65,
+      "reference": "NP"
+    },
+    {
+      "category": "JEM DAN SAPUAN",
+      "name": "Potato wedges",
+      "serving": "2 ketul",
+      "weight_g": 40,
+      "calories_kcal": 95,
+      "reference": "NP"
+    },
+    {
+      "category": "JEM DAN SAPUAN",
+      "name": "Pumpkin oat calcium cracker",
+      "serving": "1 paket",
+      "weight_g": 22,
+      "calories_kcal": 115,
+      "reference": "NP"
+    },
+    {
+      "category": "JEM DAN SAPUAN",
+      "name": "Roti bakar kaya & butter",
+      "serving": "2 keping",
+      "weight_g": 70,
+      "calories_kcal": 270,
+      "reference": "NP"
+    },
+    {
+      "category": "JEM DAN SAPUAN",
+      "name": "Roti bakar mentega kacang",
+      "serving": "2 keping",
+      "weight_g": 70,
+      "calories_kcal": 230,
+      "reference": "NP"
+    },
+    {
+      "category": "JEM DAN SAPUAN",
+      "name": "Roti bakar telur",
+      "serving": "2 keping",
+      "weight_g": 60,
+      "calories_kcal": 160,
+      "reference": "NP"
+    },
+    {
+      "category": "JEM DAN SAPUAN",
+      "name": "Salad crabstick with honeydew",
+      "serving": "1 senduk",
+      "weight_g": 80,
+      "calories_kcal": 120,
+      "reference": "NP"
+    },
+    {
+      "category": "JEM DAN SAPUAN",
+      "name": "Sandwic ayam + salad",
+      "serving": "1 keping",
+      "weight_g": 30,
+      "calories_kcal": 100,
+      "reference": "NP"
+    },
+    {
+      "category": "JEM DAN SAPUAN",
+      "name": "Sandwic keju + salad",
+      "serving": "1 keping",
+      "weight_g": 30,
+      "calories_kcal": 100,
+      "reference": "NP"
+    },
+    {
+      "category": "JEM DAN SAPUAN",
+      "name": "Sandwic sardin + salad",
+      "serving": "1 keping",
+      "weight_g": 30,
+      "calories_kcal": 90,
+      "reference": "NP"
+    },
+    {
+      "category": "JEM DAN SAPUAN",
+      "name": "Sandwic telur + salad",
+      "serving": "1 keping",
+      "weight_g": 30,
+      "calories_kcal": 80,
+      "reference": "NP"
+    },
+    {
+      "category": "JEM DAN SAPUAN",
+      "name": "Sandwic tuna + salad",
+      "serving": "1 keping",
+      "weight_g": 30,
+      "calories_kcal": 90,
+      "reference": "NP"
+    },
+    {
+      "category": "JEM DAN SAPUAN",
+      "name": "Seaweed oat calcium cracker",
+      "serving": "1 paket",
+      "weight_g": 22,
+      "calories_kcal": 110,
+      "reference": "NP"
+    },
+    {
+      "category": "JEM DAN SAPUAN",
+      "name": "Sesame oat calcium cracker",
+      "serving": "1 paket",
+      "weight_g": 22,
+      "calories_kcal": 115,
+      "reference": "NP"
+    },
+    {
+      "category": "JEM DAN SAPUAN",
+      "name": "Sosej + roti bakar + scramble egg",
+      "serving": "1 set",
+      "weight_g": 160,
+      "calories_kcal": 310,
+      "reference": "NP"
+    },
+    {
+      "category": "JEM DAN SAPUAN",
+      "name": "Sosej ayam",
+      "serving": "1 ketul",
+      "weight_g": 80,
+      "calories_kcal": 220,
+      "reference": "NP"
+    },
+    {
+      "category": "JEM DAN SAPUAN",
+      "name": "Sosej lada hitam",
+      "serving": "1 ketul",
+      "weight_g": 50,
+      "calories_kcal": 110,
+      "reference": "NP"
+    },
+    {
+      "category": "JEM DAN SAPUAN",
+      "name": "Spagethi dengan keju & sos daging",
+      "serving": "1 mangkuk",
+      "weight_g": 440,
+      "calories_kcal": 440,
+      "reference": "NC"
+    },
+    {
+      "category": "JEM DAN SAPUAN",
+      "name": "Spagetti bolognese bebola daging + keju  \n+ daging",
+      "serving": "1 mangkuk",
+      "weight_g": 225,
+      "calories_kcal": 390,
+      "reference": "NP"
+    },
+    {
+      "category": "JEM DAN SAPUAN",
+      "name": "Spicy sesame beef",
+      "serving": "1 senduk",
+      "weight_g": 60,
+      "calories_kcal": 160,
+      "reference": "NP"
+    },
+    {
+      "category": "JEM DAN SAPUAN",
+      "name": "Steamed red Talapia Fish Thai Style",
+      "serving": "1 keping",
+      "weight_g": 70,
+      "calories_kcal": 60,
+      "reference": "NP"
+    },
+    {
+      "category": "JEM DAN SAPUAN",
+      "name": "Stir fried boneless chicken with cashew nuts & \nsesame seeds",
+      "serving": "1 ketul",
+      "weight_g": 50,
+      "calories_kcal": 140,
+      "reference": "NP"
+    },
+    {
+      "category": "JEM DAN SAPUAN",
+      "name": "Stir fried chicken with dry chilli",
+      "serving": "1 ketul",
+      "weight_g": 90,
+      "calories_kcal": 150,
+      "reference": "NP"
+    },
+    {
+      "category": "JEM DAN SAPUAN",
+      "name": "Stir Fried Mantis Prawn with Thai Sauce",
+      "serving": "2 ekor",
+      "weight_g": 40,
+      "calories_kcal": 70,
+      "reference": "NP"
+    },
+    {
+      "category": "JEM DAN SAPUAN",
+      "name": "Stir Fried Prawn with Butter and Curry Leaves",
+      "serving": "1 ekor \nsederhana",
+      "weight_g": 30,
+      "calories_kcal": 70,
+      "reference": "NP"
+    },
+    {
+      "category": "JEM DAN SAPUAN",
+      "name": "Stir fry chicken with celery",
+      "serving": "1 senduk",
+      "weight_g": 60,
+      "calories_kcal": 125,
+      "reference": "NP"
+    },
+    {
+      "category": "JEM DAN SAPUAN",
+      "name": "Telur ½ masak",
+      "serving": "1 biji",
+      "weight_g": 50,
+      "calories_kcal": 80,
+      "reference": "NP"
+    },
+    {
+      "category": "JEM DAN SAPUAN",
+      "name": "Wholemeal biscuits",
+      "serving": "3 keping",
+      "weight_g": 33,
+      "calories_kcal": 120,
+      "reference": "NP"
+    },
+    {
+      "category": "JEM DAN SAPUAN",
+      "name": "Yogurt perisa buah",
+      "serving": "1 cawan",
+      "weight_g": 150,
+      "calories_kcal": 400,
+      "reference": "NC"
+    },
+    {
+      "category": "JEM DAN SAPUAN",
+      "name": "Jem strawberi",
+      "serving": "1 sudu makan",
+      "weight_g": 30,
+      "calories_kcal": 80,
+      "reference": "NP"
+    },
+    {
+      "category": "JEM DAN SAPUAN",
+      "name": "Kaya",
+      "serving": "1 sudu makan",
+      "weight_g": 30,
+      "calories_kcal": 80,
+      "reference": "Atlas"
+    },
+    {
+      "category": "JEM DAN SAPUAN",
+      "name": "Marmalade",
+      "serving": "1 sudu makan",
+      "weight_g": 20,
+      "calories_kcal": 50,
+      "reference": "NC"
+    },
+    {
+      "category": "JEM DAN SAPUAN",
+      "name": "Mayonis",
+      "serving": "1 sudu makan",
+      "weight_g": 10,
+      "calories_kcal": 60,
+      "reference": "Atlas"
+    },
+    {
+      "category": "JEM DAN SAPUAN",
+      "name": "Mentega",
+      "serving": "1 sudu teh",
+      "weight_g": 10,
+      "calories_kcal": 80,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Kuah cili nasi ayam",
+      "serving": "1 sudu makan",
+      "weight_g": 20,
+      "calories_kcal": 10,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Kuah kacang",
+      "serving": "1 sudu makan",
+      "weight_g": 10,
+      "calories_kcal": 30,
+      "reference": "Atlas"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Kuah santan",
+      "serving": "2 sudu makan",
+      "weight_g": 30,
+      "calories_kcal": 80,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Sambal belacan",
+      "serving": "1 sudu teh",
+      "weight_g": 10,
+      "calories_kcal": 10,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Sup kosong- Chicken Rice Shop",
+      "serving": "1 mangkuk kecil",
+      "weight_g": 150,
+      "calories_kcal": 10,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Air kosong",
+      "serving": "1 gelas",
+      "weight_g": 250,
+      "calories_kcal": 0,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Air soya",
+      "serving": "1 gelas",
+      "weight_g": 250,
+      "calories_kcal": 150,
+      "reference": "Atlas"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Cendol",
+      "serving": "1 mangkuk",
+      "weight_g": 150,
+      "calories_kcal": 120,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Fruit cocktail triffle pudding",
+      "serving": "1 potong",
+      "weight_g": 60,
+      "calories_kcal": 110,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Horlicks bersusu*",
+      "serving": "1 cawan",
+      "weight_g": 200,
+      "calories_kcal": 170,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Horlicks O",
+      "serving": "1 cawan",
+      "weight_g": 200,
+      "calories_kcal": 140,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Jus anggur, tanpa gula",
+      "serving": "1 gelas",
+      "weight_g": 250,
+      "calories_kcal": 250,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Jus buah",
+      "serving": "1 gelas",
+      "weight_g": 250,
+      "calories_kcal": 60,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Jus epal, tanpa gula",
+      "serving": "1 gelas",
+      "weight_g": 250,
+      "calories_kcal": 120,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Jus lemon",
+      "serving": "1 gelas",
+      "weight_g": 250,
+      "calories_kcal": 20,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Jus nenas, tanpa gula",
+      "serving": "1 gelas",
+      "weight_g": 250,
+      "calories_kcal": 130,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Jus oren, tanpa gula",
+      "serving": "1 gelas",
+      "weight_g": 250,
+      "calories_kcal": 110,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Kopi bersusu*",
+      "serving": "1 cawan",
+      "weight_g": 200,
+      "calories_kcal": 130,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Kopi O",
+      "serving": "1 cawan",
+      "weight_g": 200,
+      "calories_kcal": 60,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Kordial anggur",
+      "serving": "1 gelas",
+      "weight_g": 250,
+      "calories_kcal": 140,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Kordial durian belanda",
+      "serving": "1 gelas",
+      "weight_g": 250,
+      "calories_kcal": 120,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Kordial laici",
+      "serving": "1 gelas",
+      "weight_g": 250,
+      "calories_kcal": 140,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Kordial oren",
+      "serving": "1 gelas",
+      "weight_g": 250,
+      "calories_kcal": 70,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Kordial sarsi",
+      "serving": "1 gelas",
+      "weight_g": 250,
+      "calories_kcal": 80,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Milo bersusu*",
+      "serving": "1 cawan",
+      "weight_g": 200,
+      "calories_kcal": 160,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Milo O",
+      "serving": "1 cawan",
+      "weight_g": 200,
+      "calories_kcal": 75,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Minuman berkarbonat",
+      "serving": "1 tin",
+      "weight_g": 285,
+      "calories_kcal": 150,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Minuman bermalta",
+      "serving": "1 gelas",
+      "weight_g": 250,
+      "calories_kcal": 150,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Minuman coklat bersusu",
+      "serving": "1 gelas",
+      "weight_g": 250,
+      "calories_kcal": 170,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Mix fruit punch",
+      "serving": "1 mangkuk kecil",
+      "weight_g": 140,
+      "calories_kcal": 50,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Nescafe bersusu*",
+      "serving": "1 cawan",
+      "weight_g": 200,
+      "calories_kcal": 130,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Nescafe O",
+      "serving": "1 cawan",
+      "weight_g": 200,
+      "calories_kcal": 60,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Sirap bandung",
+      "serving": "1 gelas",
+      "weight_g": 250,
+      "calories_kcal": 160,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Sirap limau",
+      "serving": "1 gelas",
+      "weight_g": 250,
+      "calories_kcal": 90,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Sirap ros",
+      "serving": "1 gelas",
+      "weight_g": 250,
+      "calories_kcal": 85,
+      "reference": "NC"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Sirap selasih",
+      "serving": "1 gelas",
+      "weight_g": 250,
+      "calories_kcal": 120,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Teh bersusu*",
+      "serving": "1 cawan",
+      "weight_g": 200,
+      "calories_kcal": 130,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Teh lemon (Ice lemon tea-commercial)",
+      "serving": "1 gelas",
+      "weight_g": 250,
+      "calories_kcal": 120,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Teh O",
+      "serving": "1 cawan",
+      "weight_g": 200,
+      "calories_kcal": 60,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Teh O/ Kopi O",
+      "serving": "1 cawan",
+      "weight_g": 200,
+      "calories_kcal": 0,
+      "reference": "NC"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Teh tarik",
+      "serving": "1 cawan",
+      "weight_g": 200,
+      "calories_kcal": 0,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Teh tarik kurang manis",
+      "serving": "1 cawan",
+      "weight_g": 200,
+      "calories_kcal": 0,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Teh/ Kopi",
+      "serving": "1 cawan",
+      "weight_g": 200,
+      "calories_kcal": 0,
+      "reference": "NC"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Teh/Kopi",
+      "serving": "1 cawan",
+      "weight_g": 200,
+      "calories_kcal": 0,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Bayam goreng",
+      "serving": "1 senduk",
+      "weight_g": 45,
+      "calories_kcal": 50,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Bingka ubi mentega tanpa sumber haiwan",
+      "serving": "1 ketul",
+      "weight_g": 30,
+      "calories_kcal": 65,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Braised bitter gourd with tauchu",
+      "serving": "1 senduk",
+      "weight_g": 40,
+      "calories_kcal": 80,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Braised Vegetarian Chinese Cabbage with \nThree Musroom",
+      "serving": "1 senduk",
+      "weight_g": 50,
+      "calories_kcal": 50,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Braised vegetarian shark’s fin soup with four \ntreasures",
+      "serving": "1 mangkuk kecil",
+      "weight_g": 90,
+      "calories_kcal": 140,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Braised water chesnut soup",
+      "serving": "1 senduk",
+      "weight_g": 60,
+      "calories_kcal": 60,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Bubur cacar",
+      "serving": "1 mangkuk kecil",
+      "weight_g": 90,
+      "calories_kcal": 140,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Cauliflower in Masala sauce",
+      "serving": "1 senduk",
+      "weight_g": 40,
+      "calories_kcal": 17,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Cendawan pan fried",
+      "serving": "1 senduk",
+      "weight_g": 40,
+      "calories_kcal": 100,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Cendawan tumis air",
+      "serving": "1 senduk",
+      "weight_g": 45,
+      "calories_kcal": 30,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Chap chye tanpa sumber haiwan",
+      "serving": "1 senduk",
+      "weight_g": 60,
+      "calories_kcal": 50,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Chilled Longan with Jelly",
+      "serving": "1 cawan",
+      "weight_g": 200,
+      "calories_kcal": 80,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Chinese tea",
+      "serving": "1 cawan",
+      "weight_g": 200,
+      "calories_kcal": 0,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Crispy Vegetarian Roasted Chicken with BBQ \nSauce",
+      "serving": "1 keping",
+      "weight_g": 50,
+      "calories_kcal": 140,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Cucumber & tomato raita",
+      "serving": "1 senduk",
+      "weight_g": 80,
+      "calories_kcal": 30,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Deep fried vegetarian spring roll",
+      "serving": "1 keping",
+      "weight_g": 50,
+      "calories_kcal": 130,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Flacky berry puff with yogurt cream",
+      "serving": "1 biji kecil",
+      "weight_g": 30,
+      "calories_kcal": 55,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Fragrant salt & pepper soya prawn",
+      "serving": "1 senduk",
+      "weight_g": 45,
+      "calories_kcal": 110,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Fried Rice Vegetarian Chinese Style",
+      "serving": "2 senduk",
+      "weight_g": 100,
+      "calories_kcal": 240,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Fried vegetarian mee hoon",
+      "serving": "2 senduk",
+      "weight_g": 120,
+      "calories_kcal": 140,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Fruit tartlets tanpa telur",
+      "serving": "1 biji",
+      "weight_g": 40,
+      "calories_kcal": 80,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Kacang panjang goreng telur",
+      "serving": "1 senduk",
+      "weight_g": 25,
+      "calories_kcal": 50,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Kangkung fried vegetarian chicken",
+      "serving": "1 senduk",
+      "weight_g": 50,
+      "calories_kcal": 140,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Labu kuning goreng",
+      "serving": "1 senduk",
+      "weight_g": 70,
+      "calories_kcal": 60,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Makaroni bakar vegetarian",
+      "serving": "1 senduk",
+      "weight_g": 80,
+      "calories_kcal": 130,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Mini egg tart",
+      "serving": "1 biji",
+      "weight_g": 30,
+      "calories_kcal": 80,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Mixed grilled vegetables on mini corn bread",
+      "serving": "1 keping",
+      "weight_g": 50,
+      "calories_kcal": 120,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Mixed vegetable with cashewnut",
+      "serving": "1 senduk",
+      "weight_g": 50,
+      "calories_kcal": 55,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Mushroom mini quiche",
+      "serving": "1 biji",
+      "weight_g": 25,
+      "calories_kcal": 65,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Mustard plant with soy bean curd",
+      "serving": "1 senduk",
+      "weight_g": 40,
+      "calories_kcal": 85,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Pan fried vegetarian fish with soy sauce",
+      "serving": "3 piece",
+      "weight_g": 30,
+      "calories_kcal": 180,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Popia sayur",
+      "serving": "1 ketul",
+      "weight_g": 45,
+      "calories_kcal": 75,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Putu mayam with brown sugar",
+      "serving": "1 keping",
+      "weight_g": 20,
+      "calories_kcal": 40,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Rasam (soup)",
+      "serving": "1 mangkuk kecil",
+      "weight_g": 150,
+      "calories_kcal": 160,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Salad vegetarian crabsticks with honey dew",
+      "serving": "1 senduk",
+      "weight_g": 80,
+      "calories_kcal": 110,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Sandwich sayur",
+      "serving": "1 keping",
+      "weight_g": 30,
+      "calories_kcal": 45,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Sayur goreng Jawa tanpa sumber haiwan",
+      "serving": "1 senduk",
+      "weight_g": 50,
+      "calories_kcal": 45,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Simmered dhal with cumin",
+      "serving": "1 senduk",
+      "weight_g": 50,
+      "calories_kcal": 70,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Soy (fucuk )sweet and sour",
+      "serving": "1 senduk",
+      "weight_g": 70,
+      "calories_kcal": 85,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Soy chicken kuzee",
+      "serving": "1 senduk",
+      "weight_g": 70,
+      "calories_kcal": 80,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Soy chicken masak kicap",
+      "serving": "1 senduk",
+      "weight_g": 65,
+      "calories_kcal": 85,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Soy chicken masak merah",
+      "serving": "1 senduk",
+      "weight_g": 60,
+      "calories_kcal": 85,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Soy fish pan fried",
+      "serving": "1 senduk",
+      "weight_g": 60,
+      "calories_kcal": 75,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Soy meat masak hitam",
+      "serving": "1 senduk",
+      "weight_g": 60,
+      "calories_kcal": 90,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Soy sotong balck pepper",
+      "serving": "1 ketul",
+      "weight_g": 44,
+      "calories_kcal": 110,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Spicy crispy spring roll vegetarian",
+      "serving": "1 keping",
+      "weight_g": 35,
+      "calories_kcal": 90,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Steam egg tiga rasa",
+      "serving": "1 senduk",
+      "weight_g": 50,
+      "calories_kcal": 90,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Steamed Basmati rice with dried fruits",
+      "serving": "2 senduk",
+      "weight_g": 100,
+      "calories_kcal": 175,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Steamed soya fish with mushroom",
+      "serving": "1 senduk",
+      "weight_g": 70,
+      "calories_kcal": 110,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Steamed Vegetarian Fish Thai Style",
+      "serving": "1 senduk",
+      "weight_g": 50,
+      "calories_kcal": 100,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Stewed bean root with mushroom & \nvegetables",
+      "serving": "1 senduk",
+      "weight_g": 40,
+      "calories_kcal": 70,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Stir fried mixed vegetables with fresh herbs",
+      "serving": "1 senduk",
+      "weight_g": 40,
+      "calories_kcal": 65,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Stir fried vegetarian chicken with dry chilli",
+      "serving": "1 keping",
+      "weight_g": 40,
+      "calories_kcal": 150,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Stir fried vegetarian mantis prawn",
+      "serving": "1 ketul",
+      "weight_g": 30,
+      "calories_kcal": 70,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Stir fried vegetarian prawn Szechuan style",
+      "serving": "1 senduk",
+      "weight_g": 55,
+      "calories_kcal": 50,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Stir Fried Vegetarian Prawn with Butter and \nCurry Leaves",
+      "serving": "1 keping",
+      "weight_g": 30,
+      "calories_kcal": 70,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Sup sayur & tauhu",
+      "serving": "1 mangkuk kecil",
+      "weight_g": 90,
+      "calories_kcal": 80,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Sup tauhu",
+      "serving": "1 mangkuk kecil",
+      "weight_g": 90,
+      "calories_kcal": 40,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Sweet & sour soy meat",
+      "serving": "1 senduk",
+      "weight_g": 90,
+      "calories_kcal": 110,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Tauhu kukus , sos telur & cendawan hitam",
+      "serving": "½ ketul",
+      "weight_g": 90,
+      "calories_kcal": 100,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Tauhu with mix vegetables",
+      "serving": "1 senduk",
+      "weight_g": 40,
+      "calories_kcal": 75,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Thai Style Soya prawn",
+      "serving": "1 senduk",
+      "weight_g": 40,
+      "calories_kcal": 60,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Tofu goreng",
+      "serving": "1 ketul",
+      "weight_g": 40,
+      "calories_kcal": 105,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Tofu Jepun sos telur",
+      "serving": "1 senduk",
+      "weight_g": 70,
+      "calories_kcal": 100,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Tofu Jepun sos tiram",
+      "serving": "1 senduk",
+      "weight_g": 60,
+      "calories_kcal": 95,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Tofu Seng Kong",
+      "serving": "1 senduk",
+      "weight_g": 60,
+      "calories_kcal": 70,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Tofu stim & sos tiram",
+      "serving": "1 senduk",
+      "weight_g": 70,
+      "calories_kcal": 110,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Tofu Szechuan",
+      "serving": "1 ketul",
+      "weight_g": 40,
+      "calories_kcal": 90,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Vadai (masala vadai & black lentil vadai)",
+      "serving": "1 keping",
+      "weight_g": 30,
+      "calories_kcal": 95,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Vegetable mix (Ma Po)",
+      "serving": "1 senduk",
+      "weight_g": 40,
+      "calories_kcal": 50,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Vegetarian angsa goreng",
+      "serving": "1 ketul",
+      "weight_g": 50,
+      "calories_kcal": 110,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Vegetarian chicken curry",
+      "serving": "3 ketul",
+      "weight_g": 40,
+      "calories_kcal": 130,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Vegetarian chicken with plum sauce",
+      "serving": "3 keping",
+      "weight_g": 40,
+      "calories_kcal": 200,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Vegetarian ikan kukus halia",
+      "serving": "2 senduk",
+      "weight_g": 80,
+      "calories_kcal": 160,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Vegetarian kari kambing",
+      "serving": "3 ketul",
+      "weight_g": 45,
+      "calories_kcal": 135,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Vegetarian kurma",
+      "serving": "1 senduk",
+      "weight_g": 50,
+      "calories_kcal": 95,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Vegetarian mushroom soup (clear soup)",
+      "serving": "1 mangkuk kecil",
+      "weight_g": 150,
+      "calories_kcal": 35,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Vegetarian pasta",
+      "serving": "1 senduk",
+      "weight_g": 112,
+      "calories_kcal": 125,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Vegetarian pizza",
+      "serving": "1 keping",
+      "weight_g": 53,
+      "calories_kcal": 90,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Vegetarian samosa",
+      "serving": "1 biji",
+      "weight_g": 25,
+      "calories_kcal": 50,
+      "reference": "NP"
+    },
+    {
+      "category": "MINUMAN",
+      "name": "Vegetarian sandwich",
+      "serving": "3 keping",
+      "weight_g": 90,
+      "calories_kcal": 80,
+      "reference": "NP"
+    }
+  ]
+}

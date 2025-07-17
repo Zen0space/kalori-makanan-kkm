@@ -1,0 +1,90 @@
+
+# Environment files - CRITICAL: Never commit these!
+.env
+.env.*
+!.env.example
+!env.examples.txt
+
+# Python virtual environment
+venv/
+env/
+.venv/
+
+# Log files
+logs/
+*.log
+*.out
+
+# Python cache and bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+.coverage
+.pytest_cache/
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# libSQL memory files
+:memory:*
+*:memory:*
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+test_*.py
+*_test.py
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Secrets and credentials (extra protection)
+*secret*
+*token*
+*key*
+*password*
+credentials.json
+config.json
+
+# Render deployment
+.render/
