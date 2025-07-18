@@ -1,6 +1,7 @@
-from fastapi import FastAPI, HTTPException, Query
+from fastapi import FastAPI, HTTPException, Query, Depends, Request, Response
 from fastapi.responses import HTMLResponse
 from fastapi.middleware.cors import CORSMiddleware
+from pydantic import BaseModel
 
 from typing import Optional, List
 import uvicorn
@@ -21,6 +22,25 @@ from .models import (
     FoodListResponse,
     Category
 )
+from .auth import (
+    create_api_key_for_user,
+    create_test_user_and_key,
+    cleanup_old_logs
+)
+from .rate_limit import (
+    require_api_key,
+    get_rate_limit_status
+)
+
+# Models for API key management
+class CreateUserRequest(BaseModel):
+    email: str
+    password: str
+    name: Optional[str] = None
+
+class CreateApiKeyRequest(BaseModel):
+    user_id: int
+    name: Optional[str] = None
 
 # Create FastAPI app
 app = FastAPI(
@@ -404,7 +424,10 @@ async def health_check():
 
 @app.get("/foods/search", response_model=FoodSearchResponse)
 async def search_foods(
-    name: str = Query(..., description="Food name to search for", example="nasi lemak")
+    request: Request,
+    response: Response,
+    name: str = Query(..., description="Food name to search for", example="nasi lemak"),
+    auth=Depends(require_api_key)
 ):
     """Search for foods by name - Main feature for calorie lookup"""
     try:
@@ -444,7 +467,12 @@ async def search_foods(
         )
 
 @app.get("/foods/{food_id}", response_model=FoodWithCategory)
-async def get_food_detail(food_id: int):
+async def get_food_detail(
+    food_id: int,
+    request: Request,
+    response: Response,
+    auth=Depends(require_api_key)
+):
     """Get detailed information about a specific food by its ID"""
     try:
         result = get_food_by_id(food_id)
@@ -478,8 +506,11 @@ async def get_food_detail(food_id: int):
 
 @app.get("/foods", response_model=FoodListResponse)
 async def list_foods(
-    page: int = Query(1, ge=1, description="Page number (starting from 1)"),
-    per_page: int = Query(20, ge=1, le=100, description="Items per page (max 100)")
+    request: Request,
+    response: Response,
+    page: int = Query(1, ge=1, description="Page number"),
+    per_page: int = Query(20, ge=1, le=100, description="Items per page"),
+    auth=Depends(require_api_key)
 ):
     """Get paginated list of all foods"""
     try:
@@ -518,7 +549,11 @@ async def list_foods(
         )
 
 @app.get("/categories", response_model=List[Category])
-async def list_categories():
+async def list_categories(
+    request: Request,
+    response: Response,
+    auth=Depends(require_api_key)
+):
     """Get list of all food categories"""
     try:
         results = get_all_categories()
@@ -542,7 +577,12 @@ async def list_categories():
 
 # Additional endpoint for quick calorie lookup
 @app.get("/foods/search/{food_name}/calories")
-async def get_food_calories(food_name: str):
+async def get_food_calories(
+    food_name: str,
+    request: Request,
+    response: Response,
+    auth=Depends(require_api_key)
+):
     """Quick endpoint to get just the calories for a specific food"""
     try:
         results = get_food_by_name(food_name)
@@ -569,6 +609,93 @@ async def get_food_calories(food_name: str):
             status_code=500,
             detail=f"Error getting food calories: {str(e)}"
         )
+
+# API Key Management Endpoints (these don't require API key)
+@app.post("/api/create-test-user", tags=["Authentication"])
+async def create_test_user():
+    """
+    Create a test user and API key for development.
+    This endpoint is only for testing and should be removed in production.
+    """
+    try:
+        result = create_test_user_and_key()
+        return result
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+@app.post("/api/create-api-key", tags=["Authentication"])
+async def create_api_key(request: CreateApiKeyRequest):
+    """
+    Create a new API key for a user.
+    In production, this should be protected by proper authentication.
+    """
+    try:
+        result = create_api_key_for_user(request.user_id, request.name)
+        return result
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+@app.get("/api/rate-limit-status", tags=["Authentication"])
+async def check_rate_limit_status(
+    request: Request,
+    response: Response,
+    auth=Depends(require_api_key)
+):
+    """
+    Check current rate limit status for your API key.
+    """
+    try:
+        # Get API key from header
+        api_key = request.headers.get("x-api-key")
+        if not api_key:
+            raise HTTPException(status_code=401, detail="API key required")
+
+        status = await get_rate_limit_status(api_key)
+
+        # Add rate limit headers to response
+        if hasattr(request.state, 'rate_limit_headers'):
+            for header, value in request.state.rate_limit_headers.items():
+                response.headers[header] = value
+
+        return status
+    except HTTPException:
+        raise
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+@app.post("/api/cleanup-logs", tags=["Maintenance"])
+async def cleanup_logs(days_to_keep: int = 7):
+    """
+    Clean up old rate limit logs.
+    This should be run periodically to prevent database bloat.
+    In production, this should be a scheduled job, not an API endpoint.
+    """
+    try:
+        deleted_count = cleanup_old_logs(days_to_keep)
+        return {
+            "message": f"Cleaned up {deleted_count} old log entries",
+            "days_kept": days_to_keep
+        }
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+# Startup event to ensure database is ready
+@app.on_event("startup")
+async def startup_event():
+    """Initialize the application"""
+    # Test database connection
+    if not test_connection():
+        print("WARNING: Database connection failed at startup")
+    else:
+        print("Database connection successful")
+
+        # Optional: Create a test user on first run
+        # Uncomment the following lines for development
+        # try:
+        #     result = create_test_user_and_key()
+        #     print(f"Test user created. API Key: {result['api_key']}")
+        # except Exception as e:
+        #     print(f"Test user creation skipped: {str(e)}")
 
 if __name__ == "__main__":
     uvicorn.run(

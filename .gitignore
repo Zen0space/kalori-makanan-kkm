@@ -95,6 +95,7 @@ wheels/
 *password*
 credentials.json
 config.json
+.test_api_key
 
 # Render deployment
 .render/

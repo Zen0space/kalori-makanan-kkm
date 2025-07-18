@@ -8,6 +8,8 @@ A FastAPI application for looking up food calories, specifically focused on Mala
 - 📊 **Calorie Information**: Get detailed nutritional information
 - 🏷️ **Categories**: Browse foods by category
 - 📱 **REST API**: Easy integration with mobile/web apps
+- 🔐 **API Key Authentication**: Secure access with rate limiting
+- ⚡ **Rate Limiting**: Fair usage limits (10/min, 200/hour, 500/day)
 - 📚 **Auto Documentation**: Built-in Swagger UI and ReDoc
 - 🚀 **Production Ready**: Deployed on Render
 
@@ -36,9 +38,12 @@ A FastAPI application for looking up food calories, specifically focused on Mala
 
 ## Usage Examples
 
+**Note:** All API endpoints require authentication. Get your API key first (see [Rate Limiting](#rate-limiting) section).
+
 ### Search for "Nasi Lemak"
 ```bash
-curl "https://your-api.onrender.com/foods/search?name=nasi%20lemak"
+curl "https://your-api.onrender.com/foods/search?name=nasi%20lemak" \
+  -H "X-API-Key: your_api_key_here"
 ```
 
 **Response:**
@@ -61,7 +66,8 @@ curl "https://your-api.onrender.com/foods/search?name=nasi%20lemak"
 
 ### Quick Calorie Lookup
 ```bash
-curl "https://your-api.onrender.com/foods/search/rendang/calories"
+curl "https://your-api.onrender.com/foods/search/rendang/calories" \
+  -H "X-API-Key: your_api_key_here"
 ```
 
 **Response:**
@@ -73,6 +79,33 @@ curl "https://your-api.onrender.com/foods/search/rendang/calories"
   "total_matches": 3
 }
 ```
+
+## Rate Limiting
+
+The API uses API key authentication with the following rate limits:
+
+- **10 requests per minute**
+- **200 requests per hour**
+- **500 requests per day**
+- **Maximum 5 concurrent requests** (across all API keys)
+
+### Getting an API Key
+
+For development, create a test user:
+```bash
+curl -X POST https://your-api.onrender.com/api/create-test-user
+```
+
+This returns an API key that you must include in all requests using the `X-API-Key` header.
+
+### Rate Limit Headers
+
+Every response includes rate limit information:
+- `X-RateLimit-Limit-*`: Your limits
+- `X-RateLimit-Remaining-*`: Requests remaining
+- `Retry-After`: Seconds to wait when rate limited
+
+See [RATE_LIMITING.md](./RATE_LIMITING.md) for detailed documentation.
 
 ## Local Development
 
@@ -164,11 +197,15 @@ kalori-makanan-kkm/
 │   ├── __init__.py         # Python package marker
 │   ├── main.py             # FastAPI application
 │   ├── database.py         # Database connection & queries
-│   └── models.py           # Pydantic response models
+│   ├── models.py           # Pydantic response models
+│   ├── auth.py             # Authentication & API key management
+│   └── rate_limit.py       # Rate limiting middleware
 ├── .env                    # Environment variables
 ├── requirements.txt        # Python dependencies
 ├── render.yaml             # Render deployment config
 ├── start.sh               # Production startup script
+├── example_usage.py        # Example API usage script
+├── RATE_LIMITING.md       # Rate limiting documentation
 └── README.md              # This file
 ```
 

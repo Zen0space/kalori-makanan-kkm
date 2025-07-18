@@ -3,3 +3,4 @@ uvicorn==0.24.0
 httpx==0.28.1
 libsql==0.1.4
 python-dotenv==1.0.0
+requests==2.32.4
